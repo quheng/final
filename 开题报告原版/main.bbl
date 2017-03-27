@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{Cannon1998An}
+R.~C. Cannon, D.~A. Turner, G.~K. Pyapali, and H.~V. Wheal.
+\newblock An on-line archive of reconstructed hippocampal neurons.
+\newblock {\em Journal of Neuroscience Methods}, 84(1–2):49--54, 1998.
+
+\bibitem{Druckmann2014Structured}
+S~Druckmann, L.~Feng, B~Lee, C~Yook, T.~Zhao, J.~C. Magee, and J~Kim.
+\newblock Structured synaptic connectivity between hippocampal regions.
+\newblock {\em Neuron}, 81(3):629, 2014.
+
+\bibitem{Feng2014neuTube}
+Linqing Feng, Ting Zhao, and Jinhyun Kim.
+\newblock neutube 1.0: A new design for efficient neuron reconstruction
+  software based on the swc format.
+\newblock {\em Eneuro}, 2(1), 2014.
+
+\bibitem{Luisi2011The}
+Jonathan Luisi, Arunachalam Narayanaswamy, Zachary Galbreath, and Badrinath
+  Roysam.
+\newblock The farsight trace editor: An open source tool for 3-d inspection and
+  efficient pattern analysis aided editing of automated neuronal
+  reconstructions.
+\newblock {\em Neuroinformatics}, 9(2):305--315, 2011.
+
+\bibitem{Myatt2012Neuromantic}
+D.~R. Myatt, T~Hadlington, G.~A. Ascoli, and S.~J. Nasuto.
+\newblock Neuromantic – from semi-manual to semi-automatic reconstruction of
+  neuron morphology.
+\newblock {\em Frontiers in Neuroinformatics}, 6:4, 2012.
+
+\bibitem{Peng2011Proof}
+H.~Peng, F.~Long, T.~Zhao, and E~Myers.
+\newblock Proof-editing is the bottleneck of 3d neuron reconstruction: the
+  problem and solutions.
+\newblock {\em Neuroinformatics}, 9(2):103--105, 2011.
+
+\bibitem{Peng2010Seeing}
+Hanchuan Peng and Fuhui Long.
+\newblock Seeing more is knowing more: V3d enables real-time 3d visualization
+  and quantitative analysis of large-scale biological image data sets.
+\newblock {\em Nature Biotechnology}, 28(4):348--53, 2010.
+
+\bibitem{Rodriguez2006Rayburst}
+A~Rodriguez, D.~B. Ehlenberger, P.~R. Hof, and S.~L. Wearne.
+\newblock Rayburst sampling, an algorithm for automated three-dimensional shape
+  analysis from laser scanning microscopy images.
+\newblock {\em Nature Protocol}, 1(4):2152--2161, 2006.
+
+\end{thebibliography}
