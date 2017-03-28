@@ -1,0 +1,44 @@
+%%============================================================
+%% 中文封面
+
+\thispagestyle{empty}
+
+\vspace{5mm}
+
+\begin{center}
+   \includegraphics[width=108mm]{images/zjdx}
+\end{center}
+\vspace{5mm}
+
+\centerline{\heiti\xiaoyi\textbf{本~~科~~生~~毕~~业~~设~~计}}
+\vspace{3mm}
+\centerline{\heiti\xiaoyi\textbf{开题报告}}
+\vspace{6mm}
+
+\begin{center}
+  \includegraphics[width=35mm]{images/standxb}
+\end{center}
+
+\vspace{10mm}
+
+{
+\fontseries{bx}
+\setstretch{2.7}
+
+\begin{spacing}{1.7}
+\begin{tabbing}
+    \hspace{30mm} \= \songti\sanhao 题目 \= \underline{\makebox[7cm]{\sanhao\zjutitlec}} \\[2mm]
+    \> \songti\sanhao 姓名 \> \underline{\makebox[7cm]{\sanhao\zjuauthornamec}} \\[2mm]
+    \> \songti\sanhao 学号 \> \underline{\makebox[7cm]{\sanhao\zjuauthorid}} \\[2mm]
+    \> \songti\sanhao 教师 \> \underline{\makebox[7cm]{\sanhao\zjumentorc}} \\[2mm]
+    \> \songti\sanhao 年级与专业 \> \makebox[12cm]{\underline{\hspace{7mm}\sanhao\zjugrade\hspace{2mm}\zjumajor\hspace{7mm}}} \\[2mm]
+    \> \songti\sanhao 所在学院 \> \makebox[11cm]{\underline{\hspace{13mm}\sanhao\zjucollegec\hspace{13mm}}}
+\end{tabbing}
+\end{spacing}
+}
+
+%============================================================
+% empty page for two-page print
+\ifthenelse{\equal{\zjuside}{T}}{%
+  \newpage\mbox{}%
+  \thispagestyle{empty}}{}

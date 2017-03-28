@@ -1,0 +1,14 @@
+# Fdb version 3
+["pdflatex"] 1490709957 "proposal.tex" "proposal.pdf" "proposal" 1490709957
+  "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
+  "/usr/local/texlive/2016/texmf-var/web2c/xetex/xelatex.fmt" 1463979168 3520378 010aaf5a738348f136b1de9595fa7567 ""
+  "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
+  "csbachelor.cls" 0 -1 0 ""
+  "proposal.aux" 1490709931 1315 2def512188859f362789a7822faeb58d ""
+  "proposal.tex" 1490709955 9847 e4fbf67cdd44d21136592186e6d192b9 ""
+  (generated)
+  "proposal.pdf"
+  "proposal.nlo"
+  "proposal.aux"
+  "proposal.log"
+  "proposal.toc"
