@@ -1,0 +1,10 @@
+/main.pdf
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.nlo
+*.out
+*.swp
+*.toc
