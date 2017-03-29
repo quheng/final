@@ -80,8 +80,6 @@
 \RequirePackage{url}
 \urlstyle{tt}
 
-\bibliographystyle{plain}
-
 \RequirePackage{lscape}
 \RequirePackage{graphicx}
 
@@ -99,14 +97,21 @@
 
 \frenchspacing
 \widowpenalty=10000
-\setlength{\parskip}{0pt}
+\setlength{\parsep}{0em}
+\setlength{\parskip}{0em}
 \setlength{\parindent}{2em}
+\setlength{\itemsep}{0em}
 
 \RequirePackage{enumitem}
 \setlist{noitemsep}
 
+\let\oldthebibliography\thebibliography
+\let\endoldthebibliography\endthebibliography
+\renewenvironment{thebibliography}[1]{\begin{oldthebibliography}{#1}\setlength{\itemsep}{0em}\setlength{\parskip}{0em}}{\end{oldthebibliography}}
+
 \renewcommand{\baselinestretch}{1.5}
 \renewcommand{\arraystretch}{1}
+
 %\DeclareRobustCommand{\chuhao}{\fontsize{42pt}{\baselineskip}\selectfont}
 %\DeclareRobustCommand{\xiaochu}{\fontsize{36pt}{\baselineskip}\selectfont}
 %\DeclareRobustCommand{\yihao}{\fontsize{26pt}{\baselineskip}\selectfont}
@@ -169,9 +174,9 @@
 \setcounter{secnumdepth}{4}
 
 % 张海
-\renewcommand*\thesection{\arabic{section}.}
-\renewcommand*\thefigure{\arabic{figure}}
-\renewcommand*\thetable{\arabic{table}}
+\renewcommand*{\thesection}{\arabic{section}.}
+\renewcommand*{\thefigure}{\arabic{figure}}
+\renewcommand*{\thetable}{\arabic{table}}
 
 % 张海
 %\titleformat{\chapter}[block]{\sanhao\heiti\filcenter}{第 \thechapter{} 章}{1em}{}{}
@@ -226,7 +231,7 @@
 \renewcommand{\contentsname}{\centerline{\heiti\sanhao\mdseries 目~录}}
 \renewcommand{\listfigurename}{\centerline{图~目~录}}
 \renewcommand{\listtablename}{\centerline{表~目~录}}
-\setcounter{tocdepth}{1}  % 设置目录的深度到 subsection
+\setcounter{tocdepth}{2}  % 设置目录的深度到 subsection
 \renewcommand{\bibname}{参考文献}
 \renewcommand{\nomname}{\centerline{术~语~表}}
 \renewcommand{\nomlabelwidth}{25mm}
