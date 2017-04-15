@@ -2,50 +2,48 @@ This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: data/zhongqi.aux
 The style file: data/gbt7714-2005.bst
-I found no \citation commands---while reading file data/zhongqi.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: data/zhongqi.bib
-You've used 0 entries,
+You've used 1 entry,
             3107 wiz_defined-function locations,
-            712 strings with 6035 characters,
-and the built_in function-call counts, 64 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 3
+            721 strings with 6228 characters,
+and the built_in function-call counts, 2611 in all, are:
+= -- 297
+> -- 4
+< -- 9
++ -- 237
+- -- 15
+* -- 66
+:= -- 295
 add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+call.type$ -- 1
+change.case$ -- 6
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 2
+cite$ -- 1
+duplicate$ -- 375
+empty$ -- 82
+format.name$ -- 12
+if$ -- 677
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 27
-num.names$ -- 0
-pop$ -- 0
+newline$ -- 30
+num.names$ -- 1
+pop$ -- 32
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1
+skip$ -- 15
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 320
+swap$ -- 62
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 27
-(There was 1 error message)
+while$ -- 28
+width$ -- 2
+write$ -- 42

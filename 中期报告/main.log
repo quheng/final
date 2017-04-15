@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  15 APR 2017 21:11
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  15 APR 2017 21:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1727,11 +1727,11 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 ]
 \openout2 = `data/zhongqi.aux'.
 
- (./data/zhongqi.tex (./main.bbl [1
+ (./data/zhongqi.tex (./main.bbl)) [1
 
 
 
-])) [2]
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
  (./main.aux
@@ -1746,12 +1746,12 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
  ) 
 Here is how much of TeX's memory you used:
- 28420 strings out of 493591
- 520469 string characters out of 6143546
- 543487 words of memory out of 5000000
- 31465 multiletter control sequences out of 15000+600000
- 9856 words of font info for 78 fonts, out of 8000000 for 9000
+ 28453 strings out of 493591
+ 521373 string characters out of 6143546
+ 539487 words of memory out of 5000000
+ 31487 multiletter control sequences out of 15000+600000
+ 13814 words of font info for 97 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,11n,74p,10370b,734s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,74p,10370b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (4 pages).
+Output written on main.pdf (3 pages).
