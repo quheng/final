@@ -1,7 +1,7 @@
 main:
 	xelatex main.tex
-	bibtex data/kaitibaogao.aux
-	mv data/kaitibaogao.bbl main.bbl
+	bibtex data/zhongqi.aux
+	mv data/zhongqi.bbl main.bbl
 	xelatex main.tex
 	xelatex main.tex
 

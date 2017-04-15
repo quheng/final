@@ -149,7 +149,7 @@
 \setCJKfamilyfont{FangSong}{FangSong}
 \setCJKfamilyfont{HeiTi}{SimHei}
 %\setCJKfamilyfont{KaiShu}{AR PL KaitiM GB}
-\setCJKfamilyfont{KaiShu}{KaiTi}
+\setCJKfamilyfont{KaiShu}{ZhongQi}
 \setCJKfamilyfont{LiShu}{LiSu}
 \setCJKfamilyfont{SongTi}{SimSun}
 \setCJKfamilyfont{YouYuan}{YouYuan}
@@ -167,7 +167,7 @@
 \DeclareRobustCommand{\stfangsong}{\CJKfamily{STFangsong}}
 \DeclareRobustCommand{\stxingkai}{\CJKfamily{STXingkai}}
 \DeclareRobustCommand{\heiti}{\CJKfamily{HeiTi}}
-\DeclareRobustCommand{\kaiti}{\CJKfamily{KaiShu}}
+\DeclareRobustCommand{\zhongqi}{\CJKfamily{KaiShu}}
 \DeclareRobustCommand{\lishu}{\CJKfamily{LiShu}}
 \DeclareRobustCommand{\songti}{\CJKfamily{SongTi}}
 \DeclareRobustCommand{\youti}{\CJKfamily{YouYuan}}
@@ -208,20 +208,13 @@
 %\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \fancypagestyle{toc}{
   \fancyhf{}
-  \fancyhead[C]{\songti\xiaowu 浙江大学本科毕业设计~开题报告}
+  \fancyhead[C]{\songti\xiaowu 浙江大学本科毕业设计~中期报告}
 }
-\fancypagestyle{kaitibaogao}{
+\fancypagestyle{zhongqi}{
   \fancyhf{}
   %\fancyhead[L]{\xiaowu\songti 浙江大学计算机科学与技术学院本科毕业设计}
   %\fancyhead[R]{\xiaowu\songti\leftmark}
-  \fancyhead[C]{\songti\xiaowu 浙江大学本科毕业设计~开题报告}
-  \fancyfoot[C]{\songti\xiaowu \thepage}
-}
-\fancypagestyle{waiwenfanyi}{
-  \fancyhf{}
-  %\fancyhead[L]{\xiaowu\songti 浙江大学计算机科学与技术学院本科毕业设计}
-  %\fancyhead[R]{\xiaowu\songti\leftmark}
-  \fancyhead[C]{\songti\xiaowu 浙江大学本科毕业设计~外文翻译}
+  \fancyhead[C]{\songti\xiaowu 浙江大学本科毕业设计~中期报告}
   \fancyfoot[C]{\songti\xiaowu \thepage}
 }
 %\fancyhf{}
