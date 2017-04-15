@@ -1,0 +1,84 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{Cannon1998An}
+\bibauthor{CANNON R~C\@, TURNER D~A\@, PYAPALI G~K, et~al}\@. \bibtitle{An
+  on-line archive of reconstructed hippocampal neurons}\bibmark{[J]}\@.
+  \bibjournal{Journal of Neuroscience Methods}\@, \bibyear{1998}\@,
+  \bibvolume{84}\bibnumber{(1–2)}\thinspace{}\textnormal{:
+  }\bibpages{49\thinspace{}\textnormal{--}\thinspace{}54}\@.
+
+\bibitem{Druckmann2014Structured}
+\bibauthor{DRUCKMANN S\@, FENG L\@, LEE B, et~al}\@. \bibtitle{Structured
+  synaptic connectivity between hippocampal regions}\bibmark{[J]}\@.
+  \bibjournal{Neuron}\@, \bibyear{2014}\@,
+  \bibvolume{81}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{629}\@.
+
+\bibitem{Peng2011Proof}
+\bibauthor{PENG H\@, LONG F\@, ZHAO T, et~al}\@. \bibtitle{Proof-editing is the
+  bottleneck of 3D neuron reconstruction: the problem and
+  solutions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@, \bibyear{2011}\@,
+  \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{103\thinspace{}\textnormal{--}\thinspace{}105}\@.
+
+\bibitem{Luisi2011The}
+\bibauthor{LUISI J\@, NARAYANASWAMY A\@, GALBREATH Z, et~al}\@. \bibtitle{The
+  FARSIGHT Trace Editor: An Open Source Tool for 3-D Inspection and Efficient
+  Pattern Analysis Aided Editing of Automated Neuronal
+  Reconstructions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@,
+  \bibyear{2011}\@, \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{305\thinspace{}\textnormal{--}\thinspace{}315}\@.
+
+\bibitem{Myatt2012Neuromantic}
+\bibauthor{MYATT D~R\@, HADLINGTON T\@, ASCOLI G~A, et~al}\@.
+  \bibtitle{Neuromantic – from Semi-Manual to Semi-Automatic Reconstruction
+  of Neuron Morphology}\bibmark{[J]}\@. \bibjournal{Frontiers in
+  Neuroinformatics}\@, \bibyear{2012}\@, \bibvolume{6}\thinspace{}\textnormal{:
+  }\bibpages{4}\@.
+
+\bibitem{Peng2010Seeing}
+\bibauthor{PENG H\@, LONG F}\@. \bibtitle{Seeing more is knowing more: V3D
+  enables real-time 3D visualization and quantitative analysis of large-scale
+  biological image data sets}\bibmark{[J]}\@. \bibjournal{Nature
+  Biotechnology}\@, \bibyear{2010}\@,
+  \bibvolume{28}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{348\thinspace{}\textnormal{--}\thinspace{}53}\@.
+
+\bibitem{Rodriguez2006Rayburst}
+\bibauthor{RODRIGUEZ A\@, EHLENBERGER D~B\@, HOF P~R, et~al}\@.
+  \bibtitle{Rayburst sampling, an algorithm for automated three-dimensional
+  shape analysis from laser scanning microscopy images}\bibmark{[J]}\@.
+  \bibjournal{Nature Protocol}\@, \bibyear{2006}\@,
+  \bibvolume{1}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{2152\thinspace{}\textnormal{--}\thinspace{}2161}\@.
+
+\bibitem{Feng2014neuTube}
+\bibauthor{FENG L\@, ZHAO T\@, KIM J}\@. \bibtitle{neuTube 1.0: A New Design
+  for Efficient Neuron Reconstruction Software Based on the SWC
+  Format}\bibmark{[J]}\@. \bibjournal{Eneuro}\@, \bibyear{2014}\@,
+  \bibvolume{2}\bibnumber{(1)}\@.
+
+\end{thebibliography}
