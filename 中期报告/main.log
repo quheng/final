@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  11 APR 2017 17:38
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  15 APR 2017 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1497,8 +1497,7 @@ Package: CJKfntef 2015/04/18 4.8.4
 .................................................
 \c__xeCJK_filll_skip=\skip94
 )
-(./main.aux (./data/kaohe.aux) (./data/kaitibaogao.aux) (./data/waiwenfanyi.aux
-))
+(./main.aux (./data/kaitibaogao.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -1517,7 +1516,8 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 20.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -1718,44 +1718,13 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 )
 [1
 
-]) (./data/yaoqiu.tex [2]
-LaTeX Font Info:    Calculating math sizes for size <14> on input line 10.
- [3]) [4]
-\openout2 = `data/kaohe.aux'.
-
- (./data/kaohe.tex
-*************************************************
-* fontspec warning: "script-not-exist"
-* 
-* Font 'STFangsong' does not contain script 'CJK'.
-*************************************************
-\g__fontspec_family_STFangsong_int=\count190
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'STFangsong(0)' created for font 'STFangsong' with options
-. [Script={CJK},AutoFakeBold={4},AutoFakeSlant={0.167}].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT:"
-. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
-. <->"STFangsong/OT:embolden=4;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
-. spec.: <->"STFangsong/OT:slant=0.167;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.: <->"STFangsong/OT:embolden=4;slant=0.167;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-.................................................
-[5
-
-]) [6] (./main.toc)
+]) [2] (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [7
+ [3
 
-
-] [8
+] [4
 
 ]
 \openout2 = `data/kaitibaogao.aux'.
@@ -1767,172 +1736,26 @@ LaTeX Font Info:    Calculating math sizes for size <14> on input line 10.
 File: images/server.png Graphic file (type QTm)
 
 <use  "images/server.png" > [4] [5] (./main.bbl [6]) [7]) [8]
-\openout2 = `data/waiwenfanyi.aux'.
-
-
-(./data/waiwenfanyi.tex
-Chapter 1.
-[1
-
-
-
-]
-File: images/t1.png Graphic file (type QTm)
- <use  "images/t1.png" > [2] [3]
-Overfull \hbox (26.39192pt too wide) in paragraph at lines 85--87
-$\OT1/cmr/m/n/12 ^^B$ \EU1/SimSun(0)/m/n/12 指 的 是 用 户 输 入 的 参 数。|  举 例 来 说，| $\
-OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 n\OMS/cmsy
-/m/n/12 gj\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x; y; z\OT1/cmr/m/n/12 )) = \OMS/cm
-sy/m/n/12 f\OML/cmm/m/it/12 n; F[]\OT1/cmr/m/n/12 ((\OML/cmm/m/it/12 x; y; z; r
-\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 ; n[]; n[
-]; n[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 n\OMS/cmsy/m/n/12 g$\
-EU1/SimSun(0)/m/n/12 ，|
- []
-
-[4]
-File: images/framework.png Graphic file (type QTm)
- <use  "images/framework.png" >
-File: images/3b.png Graphic file (type QTm)
- <use  "images/3b.png" > [5]
-File: images/3d.png Graphic file (type QTm)
-
-<use  "images/3d.png" >
-File: images/3f.png Graphic file (type QTm)
- <use  "images/3f.png" > [6]
-File: images/t6.png Graphic file (type QTm)
- <use  "images/t6.png" >
-File: images/t7.png Graphic file (type QTm)
-
-<use  "images/t7.png" >
-File: images/t8.png Graphic file (type QTm)
- <use  "images/t8.png" >
-File: images/t9.png Graphic file (type QTm)
- <use  "images/t9.png" >
-File: images/t10.png Graphic file (type QTm)
-
-<use  "images/t10.png" >
-File: images/t11.png Graphic file (type QTm)
- <use  "images/t11.png" > [7] [8] [9] [10]
-File: images/12.png Graphic file (type QTm)
-
-<use  "images/12.png" >) [11] [12]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf" >
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf" >
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page1>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page1>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page1>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page1>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page1>
-[13
-
-
-]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page2>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page2>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page2>
-[14]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page3>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page3>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page3>
-[15]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page4>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page4>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page4>
-[16]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page5>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page5>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page5>
-[17]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page6>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page6>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page6>
-[18]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page7>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page7>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page7>
-[19]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page8>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page8>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page8>
-[20]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page9>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page9>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page9>
-[21]
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
- <use  "data/waiwenyuanwen.pdf"  page10>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page10>
-File: data/waiwenyuanwen.pdf Graphic file (type QTm)
-
-<use  "data/waiwenyuanwen.pdf"  page10> [22]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
- (./main.aux (./data/kaohe.aux)
-(./data/kaitibaogao.aux) (./data/waiwenfanyi.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 79.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 79.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+ (./main.aux
+(./data/kaitibaogao.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 59.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 59.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 63 ({)
-### bottom level 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
+ ) 
 Here is how much of TeX's memory you used:
- 28749 strings out of 493591
- 532666 string characters out of 6143546
- 556337 words of memory out of 5000000
- 31734 multiletter control sequences out of 15000+600000
- 17221 words of font info for 123 fonts, out of 8000000 for 9000
+ 28543 strings out of 493591
+ 525635 string characters out of 6143546
+ 550529 words of memory out of 5000000
+ 31573 multiletter control sequences out of 15000+600000
+ 13822 words of font info for 98 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,18n,74p,10370b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,74p,10370b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (38 pages).
+Output written on main.pdf (12 pages).
