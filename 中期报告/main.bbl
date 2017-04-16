@@ -50,4 +50,11 @@
   Format}\bibmark{[J]}\@. \bibjournal{Eneuro}\@, \bibyear{2014}\@,
   \bibvolume{2}\bibnumber{(1)}\@.
 
+\bibitem{stonebraker1991postgres}
+\bibauthor{STONEBRAKER M\@, KEMNITZ G}\@. \bibtitle{The POSTGRES next
+  generation database management system}\bibmark{[J]}\@.
+  \bibjournal{Communications of the ACM}\@, \bibyear{1991}\@,
+  \bibvolume{34}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{78\thinspace{}\textnormal{--}\thinspace{}92}\@.
+
 \end{thebibliography}
