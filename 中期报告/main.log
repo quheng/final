@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  16 APR 2017 14:19
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  16 APR 2017 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1734,10 +1734,13 @@ File: images/server.png Graphic file (type QTm)
 
 
 ]
-[2] (./main.bbl [3])) [4]
+[2]
+File: images/overview.png Graphic file (type QTm)
+ <use  "images/overview.png" > [3] (./main.bbl [4])) [5]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
- (./main.aux (./data/zhongqi.aux))
+ (./main.aux
+(./data/zhongqi.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 57.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 57.
 
@@ -1748,12 +1751,12 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 57.
  ) 
 Here is how much of TeX's memory you used:
- 28521 strings out of 493591
- 524235 string characters out of 6143546
- 550487 words of memory out of 5000000
- 31552 multiletter control sequences out of 15000+600000
+ 28524 strings out of 493591
+ 524276 string characters out of 6143546
+ 551487 words of memory out of 5000000
+ 31554 multiletter control sequences out of 15000+600000
  13822 words of font info for 98 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,11n,74p,10370b,778s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,74p,10370b,780s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (6 pages).
+Output written on main.pdf (7 pages).

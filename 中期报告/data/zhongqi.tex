@@ -108,6 +108,16 @@
 \label{overview}
 \end{figure}
 
+1. 响应时间分析
+Grigorik 通过分析大量用户数据提出用户能明显感受到毫秒级别的延迟，即使平时生活中接触不到毫秒级别的时间。延迟在 100ms 以内的时候，用户会认为立即得到了响应；在 100 ~ 300 ms 之间，用户会感觉到轻微的延迟；300 ~ 1000 ms 之间，用户仅仅认为系统工作正常，但体验较差；当延迟达到 1000 ms 之上的时候，用户会去做其他工作；如果延迟达到了 10 000ms 的时候，用户便放弃这项任务\upcite{grigorik2013high}。 
+
+\begin{figure}
+\centering
+\includegraphics[width=148mm]{images/response}
+\caption{响应时间}
+\label{overview}
+\end{figure}
+
 \bibliographystyle{data/gbt7714-2005}
 {
 \renewcommand{\chapter}[2]{\section*{#2}\addcontentsline{toc}{section}{#2}}
