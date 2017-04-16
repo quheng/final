@@ -3,7 +3,7 @@
 \contentsline {subsection}{\numberline {2..1}神经信息数据库}{2}{subsection.0.2.1}
 \contentsline {subsection}{\numberline {2..2}用户信息数据库}{3}{subsection.0.2.2}
 \contentsline {subsubsection}{\numberline {2..2.1}数据表设计}{3}{subsubsection.0.2.2.1}
-\contentsline {subsubsection}{\numberline {2..2.2}网络服务器}{4}{subsubsection.0.2.2.2}
+\contentsline {subsection}{\numberline {2..3}网络服务器}{4}{subsection.0.2.3}
 \contentsline {section}{\numberline {3.}性能测试}{4}{section.0.3}
 \contentsline {subsection}{\numberline {3..1}响应时间分析}{5}{subsection.0.3.1}
 \contentsline {subsection}{\numberline {3..2}并发请求分析}{5}{subsection.0.3.2}
