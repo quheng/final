@@ -57,6 +57,13 @@
   \bibvolume{34}\bibnumber{(10)}\thinspace{}\textnormal{:
   }\bibpages{78\thinspace{}\textnormal{--}\thinspace{}92}\@.
 
+\bibitem{tilkov2010node}
+\bibauthor{TILKOV S\@, VINOSKI S}\@. \bibtitle{Node. js: Using JavaScript to
+  build high-performance network programs}\bibmark{[J]}\@. \bibjournal{IEEE
+  Internet Computing}\@, \bibyear{2010}\@,
+  \bibvolume{14}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{80\thinspace{}\textnormal{--}\thinspace{}83}\@.
+
 \bibitem{grigorik2013high}
 \bibauthor{GRIGORIK I}\@. \bibbooktitle{High Performance Browser Networking:
   What every web developer should know about networking and web
