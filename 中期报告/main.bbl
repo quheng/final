@@ -31,4 +31,23 @@
   \bibvolume{84}\bibnumber{(1–2)}\thinspace{}\textnormal{:
   }\bibpages{49\thinspace{}\textnormal{--}\thinspace{}54}\@.
 
+\bibitem{Druckmann2014Structured}
+\bibauthor{DRUCKMANN S\@, FENG L\@, LEE B, et~al}\@. \bibtitle{Structured
+  synaptic connectivity between hippocampal regions}\bibmark{[J]}\@.
+  \bibjournal{Neuron}\@, \bibyear{2014}\@,
+  \bibvolume{81}\bibnumber{(3)}\thinspace{}\textnormal{: }\bibpages{629}\@.
+
+\bibitem{Peng2011Proof}
+\bibauthor{PENG H\@, LONG F\@, ZHAO T, et~al}\@. \bibtitle{Proof-editing is the
+  bottleneck of 3D neuron reconstruction: the problem and
+  solutions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@, \bibyear{2011}\@,
+  \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{103\thinspace{}\textnormal{--}\thinspace{}105}\@.
+
+\bibitem{Feng2014neuTube}
+\bibauthor{FENG L\@, ZHAO T\@, KIM J}\@. \bibtitle{neuTube 1.0: A New Design
+  for Efficient Neuron Reconstruction Software Based on the SWC
+  Format}\bibmark{[J]}\@. \bibjournal{Eneuro}\@, \bibyear{2014}\@,
+  \bibvolume{2}\bibnumber{(1)}\@.
+
 \end{thebibliography}
