@@ -99,6 +99,15 @@
              \label{swc-table}    
 \end{table}
 
+\section{性能测试}
+为了提供一个高可用的实时编辑功能，需要能对用户的操作迅速做出反应，降低响应延迟。使用 Gatling 作为压力测试工具，进行了压力测试。如图 \ref{overview} 所示，在 5 分钟的时间里进行了 31000 次请求，下文做更加详细的分析。
+\begin{figure}
+\centering
+\includegraphics[width=148mm]{images/overview}
+\caption{压力测试概述}
+\label{overview}
+\end{figure}
+
 \bibliographystyle{data/gbt7714-2005}
 {
 \renewcommand{\chapter}[2]{\section*{#2}\addcontentsline{toc}{section}{#2}}
