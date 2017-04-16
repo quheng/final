@@ -57,4 +57,10 @@
   \bibvolume{34}\bibnumber{(10)}\thinspace{}\textnormal{:
   }\bibpages{78\thinspace{}\textnormal{--}\thinspace{}92}\@.
 
+\bibitem{grigorik2013high}
+\bibauthor{GRIGORIK I}\@. \bibbooktitle{High Performance Browser Networking:
+  What every web developer should know about networking and web
+  performance}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{" O'Reilly Media, Inc."}\@, \bibyear{2013}\@.
+
 \end{thebibliography}
