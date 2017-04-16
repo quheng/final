@@ -33,6 +33,71 @@
 \subsection{用户信息数据库}
 用户信息数据库包含多用户管理以及用户资源管理。使用 PostgreSQL 数据库储存这部分信息。PostgreSQL 最初由加州大学伯克利分校计算机系开发完成。在支持大部分 SQL 标准之上，提供了许多诸如复杂查询，多版本并行控制，事物完整性等现代特性\upcite{stonebraker1991postgres}。由于 PostreSQL 对标准 SQL 支持度较高，可以方便的和 DVID 联系起来，将用户信息和原始图像信息，数字重建结果对应起来。利用 PostgreSQL 支持的储存过程，事物以及多版本并行控制特性，我们可以方便的实现分布式，多用户实时编辑平台，并解决多用户同时编辑可能产生冲突的问题。
 
+\subsubsection{数据表设计}
+为了实现多用户管理以及用户资源管理，共设计实现了三张数据表，分别是用户信息表，原始图像数据表以及 swc 数据表。
+
+1. 用户信息表
+用户信息表如表 \ref{user-table} 所示，共有三个字段，分别储存了用户名，密码和用户保证账户安全的盐值。
+\begin{table}
+\centering
+\caption{用户信息表}
+\begin{tabular}{|c|c|c|}
+			   \hline
+                 字段名 & 数据类型 & 备注 \\
+               \hline
+                 username & STRING & 主键 \\
+               \hline
+                 password & STRING &  \\
+               \hline
+                 salt & UUID & 用于保证用户账户安全 \\
+               \hline
+             \end{tabular}
+             \label{user-table}    
+\end{table}
+
+2. 原始图像数据表
+原始图像数据表如表 \ref{image-table} 所示，共有三个字段，分别储存了创建者，图像名和权限控制的用户角色。
+
+\begin{table}
+\centering
+\caption{原始图像数据表}
+\begin{tabular}{|c|c|c|}
+			   \hline
+                 字段名 & 数据类型 & 备注 \\
+               \hline
+                 username & STRING & 创建者，外键，用户信息表中的 username \\
+               \hline
+                 image & STRING &  \\
+               \hline
+                 role & STRING & 用于权限控制 \\
+               \hline
+             \end{tabular}
+             \label{image-table}    
+\end{table}
+
+3. swc 数据表
+原始图像数据表如表 \ref{swc-table} 所示，共有五个字段，分别储存了创建者，图像名，创建时间，swc 文件名以及用户评论。根据创建时间，可以建立同一图像下 swc 文件的拓扑顺序，为多用户同时编辑以及合并冲突分支提供了基础。
+
+\begin{table}
+\centering
+\caption{原始图像数据表}
+\begin{tabular}{|c|c|c|}
+			   \hline
+                 字段名 & 数据类型 & 备注 \\
+               \hline
+                 username & STRING & 创建者，外键，用户信息表中的 username \\
+               \hline
+                 image & STRING & 原始图像名，外键，原始图像数据表中的 image \\
+               \hline
+                 createdAt & TIME & 创建时间 \\
+               \hline
+                 swc & TEXT & swc 文件名 \\
+               \hline
+                 comments & STRING & 备注 \\
+               \hline
+             \end{tabular}
+             \label{swc-table}    
+\end{table}
 
 \bibliographystyle{data/gbt7714-2005}
 {
