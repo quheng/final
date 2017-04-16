@@ -108,17 +108,34 @@
 \label{overview}
 \end{figure}
 
-1. 响应时间分析
+\subsection{响应时间分析}
 
 Grigorik 通过分析大量用户数据提出用户能明显感受到毫秒级别的延迟，即使平时生活中接触不到毫秒级别的时间。延迟在 100ms 以内的时候，用户会认为立即得到了响应；在 100 ~ 300 ms 之间，用户会感觉到轻微的延迟；300 ~ 1000 ms 之间，用户仅仅认为系统工作正常，但体验较差；当延迟达到 1000 ms 之上的时候，用户会去做其他工作；如果延迟达到了 10 000ms 的时候，用户便放弃这项任务\upcite{grigorik2013high}。 
 
-在图 \ref{response} 和图 \ref{overview} 中可以看出，最低响应时间为 5 ms, 最高响应时间为 4028 ms, 平均响应时间为 68 ms。绝大多数请求的响应时间在 100ms 以下，少部分请求响应时间在 100~400 ms 之间，极少数请求的响应时间在 1000 ms 以上。基本满足了实时操作的要求。
+在图 \ref{response} 和图 \ref{overview} 中可以看出，最低响应时间为 5 ms, 最高响应时间为 4028 ms, 平均响应时间为 68 ms。绝大多数请求的响应时间在 100ms 以下，少部分请求响应时间在 100~400 ms 之间，极少数请求的响应时间在 1000 ms 以上。在图 \ref{overtime} 可以看出不同响应时间的请求占总请求比例随时间变化趋势。按照 Grigorik 的标准，基本满足了实时操作的要求。
 
 \begin{figure}
 \centering
 \includegraphics[width=148mm]{images/response}
 \caption{响应时间}
 \label{response}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=148mm]{images/overtime}
+\caption{不同响应时间的请求随时间变化趋势}
+\label{overtime}
+\end{figure}
+
+\subsection{并发请求分析}
+在图 \ref{request} 中描述了网络服务器处理请求的数量随着时间变化的趋势。
+
+\begin{figure}
+\centering
+\includegraphics[width=148mm]{images/request}
+\caption{并发请求数量}
+\label{request}
 \end{figure}
 
 \bibliographystyle{data/gbt7714-2005}
