@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  9 MAY 2017 11:50
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  9 MAY 2017 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1748,7 +1748,17 @@ LaTeX Font Info:    Calculating math sizes for size <14> on input line 10.
 .................................................
 [5
 
-]) [6] (./main.toc)
+]
+Underfull \hbox (badness 3049) in paragraph at lines 109--109
+[]\EU1/SimSun(0)/bx/n/12 中 期 报
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\EU1/SimSun(0)/bx/n/12 占
+ []
+
+) [6] (./main.toc)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -2005,11 +2015,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
 ### simple group (level 1) entered at line 63 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28782 strings out of 493591
- 534525 string characters out of 6143546
+ 28805 strings out of 493591
+ 535777 string characters out of 6143546
  556337 words of memory out of 5000000
- 31765 multiletter control sequences out of 15000+600000
- 17221 words of font info for 123 fonts, out of 8000000 for 9000
+ 31787 multiletter control sequences out of 15000+600000
+ 17229 words of font info for 124 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  55i,18n,74p,10370b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
 
