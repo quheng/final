@@ -9,7 +9,7 @@
 \contentsline {section}{\numberline {3.1}第一节}{3}
 \contentsline {chapter}{\numberline {4}项目成果}{4}
 \contentsline {section}{\numberline {4.1}第一节}{4}
-\contentsline {chapter}{致谢}{5}
 \contentsline {chapter}{参考文献}{5}
-\contentsline {chapter}{附录}{6}
+\contentsline {chapter}{致谢}{6}
+\contentsline {chapter}{附录}{7}
 \contentsfinish 
