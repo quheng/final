@@ -8,6 +8,12 @@ Kerry~M Brown, Germ{\'a}n Barrionuevo, Alison~J Canty, Vincenzo De~Paola,
   neuronal morphology to advance automation of digital reconstructions.
 \newblock {\em Neuroinformatics}, 9(2-3):143--157, 2011.
 
+\bibitem{Feng2014neuTube}
+Linqing Feng, Ting Zhao, and Jinhyun Kim.
+\newblock neutube 1.0: A new design for efficient neuron reconstruction
+  software based on the swc format.
+\newblock {\em Eneuro}, 2(1), 2014.
+
 \bibitem{luisi2011farsight}
 Jonathan Luisi, Arunachalam Narayanaswamy, Zachary Galbreath, and Badrinath
   Roysam.
