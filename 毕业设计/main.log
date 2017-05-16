@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  16 MAY 2017 19:05
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  16 MAY 2017 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1632,9 +1632,12 @@ File: images/FARSIGHT.png Graphic file (type QTm)
 File: images/FARSIGHT-res.jpg Graphic file (type QTm)
 
 <use  "images/FARSIGHT-res.jpg" > [3] [4]
+
+LaTeX Warning: Citation `Feng2014neuTube' on page 5 undefined on input line 49.
+
+
 File: images/neutube.png Graphic file (type QTm)
- <use  "images/neutube.png" >)
-[5] [6]
+<use  "images/neutube.png" >) [5] [6]
 \openout2 = `data/chap2.aux'.
 
  (./data/chap2.tex
@@ -1644,12 +1647,12 @@ File: images/server.png Graphic file (type QTm)
 
 
 
-] [8]) [9]
+] [8]) [9] [10]
 \openout2 = `data/chap3.aux'.
 
  (./data/chap3.tex
 Chapter 3.
-) [10
+) [11
 
 
 
@@ -1658,24 +1661,24 @@ Chapter 3.
 
  (./data/chap4.tex
 Chapter 4.
-) [11
+) [12
 
 
 
-] (./main.bbl) [12
+] (./main.bbl) [13
 
 
 
 ]
 \openout2 = `data/thanks.aux'.
 
- (./data/thanks.tex) [13
+ (./data/thanks.tex) [14
 
 
 ]
 \openout2 = `data/appe.aux'.
 
- (./data/appe.tex) [14
+ (./data/appe.tex) [15
 
 
 
@@ -1751,221 +1754,4 @@ l.2 ...��科生毕业论文（设计）任务书}}
 | Check the spelling, where the font is installed etc. etc.
 | 
 | When in doubt, ask someone for help!
-|...............................................
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "STXingkai" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.2 ...��科生毕业论文（设计）任务书}}
-                                                  
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-| Check the spelling, where the font is installed etc. etc.
-| 
-| When in doubt, ask someone for help!
-|...............................................
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "STXingkai" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.2 ...��科生毕业论文（设计）任务书}}
-                                                  
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-| Check the spelling, where the font is installed etc. etc.
-| 
-| When in doubt, ask someone for help!
-|...............................................
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "STXingkai" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.2 ...��科生毕业论文（设计）任务书}}
-                                                  
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-| Check the spelling, where the font is installed etc. etc.
-| 
-| When in doubt, ask someone for help!
-|...............................................
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "STXingkai" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.2 ...��科生毕业论文（设计）任务书}}
-                                                  
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-| Check the spelling, where the font is installed etc. etc.
-| 
-| When in doubt, ask someone for help!
-|...............................................
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "STXingkai" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.2 ...��科生毕业论文（设计）任务书}}
-                                                  
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-| Check the spelling, where the font is installed etc. etc.
-| 
-| When in doubt, ask someone for help!
-|...............................................
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!
-! fontspec error: "font-not-found"
-! 
-! The font "STXingkai" cannot be found.
-! 
-! See the fontspec documentation for further information.
-! 
-! For immediate help type H <return>.
-!...............................................  
-                                                  
-l.2 ...��科生毕业论文（设计）任务书}}
-                                                  
-|'''''''''''''''''''''''''''''''''''''''''''''''
-| A font might not be found for many reasons.
-| Check the spelling, where the font is installed etc. etc.
-| 
-| When in doubt, ask someone for help!
-|...............................................
-
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'STXingkai(0)' created for font 'STXingkai' with options
-. [Script={CJK},AutoFakeBold={4},AutoFakeSlant={0.167}].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"STXingkai/OT:"
-. - 'small caps'  (m/sc) with NFSS spec.: <->"STXingkai/OT:"- 'bold' (bx/n)
-. with NFSS spec.: <->"STXingkai/OT:embolden=4;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"STXingkai/OT:embolden=4;"-
-. 'italic' (m/it) with NFSS spec.: <->"STXingkai/OT:slant=0.167;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.:
-. <->"STXingkai/OT:slant=0.167;"- 'bold italic' (bx/it) with NFSS spec.:
-. <->"STXingkai/OT:embolden=4;slant=0.167;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
-. <->"STXingkai/OT:embolden=4;slant=0.167;"
-.................................................
-! Font EU1/STXingkai(0)/m/n/22=STXingkai/OT: at 22.0pt not loadable: Metric (TF
-M) file or installed font not found.
-<to be read again> 
-                   relax 
-l.2 ...��科生毕业论文（设计）任务书}}
-                                                  
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-Missing character: There is no 本 in font nullfont!
-Missing character: There is no 科 in font nullfont!
-Missing character: There is no 生 in font nullfont!
-Missing character: There is no 毕 in font nullfont!
-Missing character: There is no 业 in font nullfont!
-Missing character: There is no 论 in font nullfont!
-Missing character: There is no 文 in font nullfont!
-Missing character: There is no （ in font nullfont!
-Missing character: There is no 设 in font nullfont!
-Missing character: There is no 计 in font nullfont!
-Missing character: There is no ） in font nullfont!
-Missing character: There is no 任 in font nullfont!
-Missing character: There is no 务 in font nullfont!
-Missing character: There is no 书 in font nullfont!
-*************************************************
-* fontspec warning: "script-not-exist"
-* 
-* Font 'STFangsong' does not contain script 'CJK'.
-*************************************************
-\g__fontspec_family_STFangsong_int=\count176
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'STFangsong(0)' created for font 'STFangsong' with options
-. [Script={CJK},AutoFakeBold={4},AutoFakeSlant={0.167}].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT:"
-. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
-. <->"STFangsong/OT:embolden=4;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
-. spec.: <->"STFangsong/OT:slant=0.167;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.: <->"STFangsong/OT:embolden=4;slant=0.167;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-.................................................
-) [15
-
-
-
-]
-\openout2 = `data/eval.aux'.
-
- (./data/eval.tex) [16
-
-
-
-] (./main.aux (./data/absc.aux) (./data/abse.aux)
-(./data/chap1.aux) (./data/chap2.aux) (./data/chap3.aux) (./data/chap4.aux)
-(./data/thanks.aux) (./data/appe.aux) (./data/task.aux) (./data/eval.aux)) ) 
-Here is how much of TeX's memory you used:
- 22269 strings out of 493591
- 438762 string characters out of 6143546
- 430378 words of memory out of 5000000
- 25280 multiletter control sequences out of 15000+600000
- 13445 words of font info for 109 fonts, out of 8000000 for 9000
- 1347 hyphenation exceptions out of 8191
- 55i,11n,92p,10370b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on main.pdf (26 pages).
+|........................
