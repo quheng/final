@@ -1578,4 +1578,183 @@ Overfull \hbox (24.491pt too wide) in paragraph at lines 61--62
 . This font family consists of the following NFSS series/shapes:
 . - 'normal' (m/n) with NFSS spec.: <->"SimHei/OT:script=hani;language=DFLT;"
 . - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
-. <->"SimHei/OT:script=hani;language=D
+. <->"SimHei/OT:script=hani;language=DFLT;embolden=4;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"SimHei/OT:script=hani;language=DFLT;slant=0.167;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
+. with NFSS spec.:
+. <->"SimHei/OT:script=hani;language=DFLT;embolden=4;slant=0.167;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 23.
+ [5]) [6]
+\openout2 = `data/absc.aux'.
+
+ (./data/absc.tex) [1
+
+
+
+]
+\openout2 = `data/abse.aux'.
+
+ (./data/abse.tex)
+[2
+
+
+
+] (./main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [3
+
+
+] [4
+
+]
+\openout2 = `data/chap1.aux'.
+
+ (./data/chap1.tex
+Chapter 1.
+File: images/worm.png Graphic file (type QTm)
+<use  "images/worm.png" >
+File: images/Druckmann.jpg Graphic file (type QTm)
+ <use  "images/Druckmann.jpg" > [1
+
+
+] [2]
+File: images/FARSIGHT.png Graphic file (type QTm)
+
+<use  "images/FARSIGHT.png" >
+File: images/FARSIGHT-res.jpg Graphic file (type QTm)
+ <use  "images/FARSIGHT-res.jpg" > [3] [4]
+File: images/neutube.png Graphic file (type QTm)
+
+<use  "images/neutube.png" >) [5] [6]
+\openout2 = `data/chap2.aux'.
+
+ (./data/chap2.tex
+Chapter 2.
+) [7
+
+
+
+]
+\openout2 = `data/chap3.aux'.
+
+ (./data/chap3.tex
+Chapter 3.
+) [8
+
+
+
+]
+\openout2 = `data/chap4.aux'.
+
+ (./data/chap4.tex
+Chapter 4.
+) [9
+
+
+
+] (./main.bbl) [10
+
+
+
+]
+\openout2 = `data/thanks.aux'.
+
+ (./data/thanks.tex) [11
+
+
+]
+\openout2 = `data/appe.aux'.
+
+ (./data/appe.tex) [12
+
+
+
+]
+\openout2 = `data/task.aux'.
+
+
+(./data/task.tex
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "STXingkai" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.2 ...��科生毕业论文（设计）任务书}}
+                                                  
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+*************************************************
+* fontspec warning: "script-not-exist"
+* 
+* Font 'STXingkai' does not contain script 'CJK'.
+*************************************************
+\g__fontspec_family_STXingkai_int=\count175
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "STXingkai" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.2 ...��科生毕业论文（设计）任务书}}
+                                                  
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "STXingkai" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.2 ...��科生毕业论文（设计）任务书}}
+                                                  
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| A font might not be found for many reasons.
+| Check the spelling, where the font is installed etc. etc.
+| 
+| When in doubt, ask someone for help!
+|...............................................
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+! fontspec error: "font-not-found"
+! 
+! The font "STXingkai" cannot be found.
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <r
