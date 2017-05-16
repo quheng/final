@@ -261,6 +261,7 @@ INPUT images/neutube.png
 OUTPUT data/chap2.aux
 INPUT data/chap2.tex
 INPUT data/chap2.tex
+INPUT images/server.png
 OUTPUT data/chap3.aux
 INPUT data/chap3.tex
 INPUT data/chap3.tex

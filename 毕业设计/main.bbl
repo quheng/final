@@ -16,6 +16,17 @@ Jonathan Luisi, Arunachalam Narayanaswamy, Zachary Galbreath, and Badrinath
   reconstructions.
 \newblock {\em Neuroinformatics}, 9(2-3):305--315, 2011.
 
+\bibitem{stonebraker1991postgres}
+Michael Stonebraker and Greg Kemnitz.
+\newblock The postgres next generation database management system.
+\newblock {\em Communications of the ACM}, 34(10):78--92, 1991.
+
+\bibitem{tilkov2010node}
+Stefan Tilkov and Steve Vinoski.
+\newblock Node. js: Using javascript to build high-performance network
+  programs.
+\newblock {\em IEEE Internet Computing}, 14(6):80--83, 2010.
+
 \bibitem{varshney2011structural}
 Lav~R Varshney, Beth~L Chen, Eric Paniagua, David~H Hall, and Dmitri~B
   Chklovskii.

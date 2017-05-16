@@ -13,44 +13,44 @@ A level-1 auxiliary file: data/appe.aux
 A level-1 auxiliary file: data/task.aux
 A level-1 auxiliary file: data/eval.aux
 Database file #1: data/zjubib.bib
-You've used 4 entries,
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            542 strings with 5350 characters,
-and the built_in function-call counts, 1801 in all, are:
-= -- 165
-> -- 127
+            559 strings with 5639 characters,
+and the built_in function-call counts, 2433 in all, are:
+= -- 231
+> -- 153
 < -- 0
-+ -- 53
-- -- 46
-* -- 168
-:= -- 317
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 35
++ -- 64
+- -- 54
+* -- 216
+:= -- 423
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 45
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 44
-empty$ -- 108
-format.name$ -- 46
-if$ -- 344
+cite$ -- 6
+duplicate$ -- 66
+empty$ -- 158
+format.name$ -- 54
+if$ -- 472
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 4
-newline$ -- 23
-num.names$ -- 8
-pop$ -- 27
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 33
 preamble$ -- 1
-purify$ -- 31
+purify$ -- 39
 quote$ -- 0
-skip$ -- 28
+skip$ -- 44
 stack$ -- 0
-substring$ -- 116
-swap$ -- 4
+substring$ -- 165
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
+type$ -- 24
 warning$ -- 0
-while$ -- 15
-width$ -- 5
-write$ -- 46
+while$ -- 23
+width$ -- 7
+write$ -- 68
