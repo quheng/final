@@ -15,11 +15,11 @@
 \contentsline {subsection}{\numberline {2.2.1}神经信息数据库}{9}
 \contentsline {subsection}{\numberline {2.2.2}用户信息数据库}{9}
 \contentsline {subsection}{\numberline {2.2.3}网络服务器}{9}
-\contentsline {chapter}{\numberline {3}在项目中负责的具体工作}{11}
-\contentsline {section}{\numberline {3.1}第一节}{11}
-\contentsline {chapter}{\numberline {4}项目成果}{12}
-\contentsline {section}{\numberline {4.1}第一节}{12}
-\contentsline {chapter}{参考文献}{13}
-\contentsline {chapter}{致谢}{14}
-\contentsline {chapter}{附录}{15}
+\contentsline {chapter}{\numberline {3}平台搭建与性能调优}{11}
+\contentsline {section}{\numberline {3.1}数据表设计}{11}
+\contentsline {chapter}{\numberline {4}项目成果}{13}
+\contentsline {section}{\numberline {4.1}第一节}{13}
+\contentsline {chapter}{参考文献}{14}
+\contentsline {chapter}{致谢}{15}
+\contentsline {chapter}{附录}{16}
 \contentsfinish 

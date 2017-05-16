@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  16 MAY 2017 19:34
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  16 MAY 2017 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1653,29 +1653,29 @@ Chapter 3.
 
 
 
-]
+] [12]
 \openout2 = `data/chap4.aux'.
 
  (./data/chap4.tex
 Chapter 4.
-) [12
+) [13
 
 
 
-] (./main.bbl) [13
+] (./main.bbl) [14
 
 
 
 ]
 \openout2 = `data/thanks.aux'.
 
- (./data/thanks.tex) [14
+ (./data/thanks.tex) [15
 
 
 ]
 \openout2 = `data/appe.aux'.
 
- (./data/appe.tex) [15
+ (./data/appe.tex) [16
 
 
 
@@ -1945,14 +1945,14 @@ Missing character: There is no 书 in font nullfont!
 . with NFSS spec.: <->"STFangsong/OT:embolden=4;slant=0.167;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-) [16
+) [17
 
 
 
 ]
 \openout2 = `data/eval.aux'.
 
- (./data/eval.tex) [17
+ (./data/eval.tex) [18
 
 
 
@@ -1960,12 +1960,12 @@ Missing character: There is no 书 in font nullfont!
 (./data/chap1.aux) (./data/chap2.aux) (./data/chap3.aux) (./data/chap4.aux)
 (./data/thanks.aux) (./data/appe.aux) (./data/task.aux) (./data/eval.aux)) ) 
 Here is how much of TeX's memory you used:
- 22270 strings out of 493591
- 438779 string characters out of 6143546
- 430381 words of memory out of 5000000
- 25281 multiletter control sequences out of 15000+600000
+ 22273 strings out of 493591
+ 438815 string characters out of 6143546
+ 430414 words of memory out of 5000000
+ 25284 multiletter control sequences out of 15000+600000
  13445 words of font info for 109 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,11n,92p,10370b,399s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,92p,10370b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (27 pages).
+Output written on main.pdf (28 pages).
