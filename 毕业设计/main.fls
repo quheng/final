@@ -249,6 +249,12 @@ OUTPUT main.toc
 OUTPUT data/chap1.aux
 INPUT data/chap1.tex
 INPUT data/chap1.tex
+INPUT images/worm.png
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
+INPUT images/Druckmann.jpg
 OUTPUT data/chap2.aux
 INPUT data/chap2.tex
 INPUT data/chap2.tex

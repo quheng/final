@@ -1,3 +1,23 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{brown2011diadem}
+Kerry~M Brown, Germ{\'a}n Barrionuevo, Alison~J Canty, Vincenzo De~Paola,
+  Judith~A Hirsch, Gregory~SXE Jefferis, Ju~Lu, Marjolein Snippe, Izumi
+  Sugihara, and Giorgio~A Ascoli.
+\newblock The diadem data sets: representative light microscopy images of
+  neuronal morphology to advance automation of digital reconstructions.
+\newblock {\em Neuroinformatics}, 9(2-3):143--157, 2011.
+
+\bibitem{varshney2011structural}
+Lav~R Varshney, Beth~L Chen, Eric Paniagua, David~H Hall, and Dmitri~B
+  Chklovskii.
+\newblock Structural properties of the caenorhabditis elegans neuronal network.
+\newblock {\em PLoS Comput Biol}, 7(2):e1001066, 2011.
+
+\bibitem{white1986structure}
+John~G White, Eileen Southgate, J~Nichol Thomson, and Sydney Brenner.
+\newblock The structure of the nervous system of the nematode caenorhabditis
+  elegans.
+\newblock {\em Philos Trans R Soc Lond B Biol Sci}, 314(1165):1--340, 1986.
 
 \end{thebibliography}
