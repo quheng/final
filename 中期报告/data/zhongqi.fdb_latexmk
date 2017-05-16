@@ -1,0 +1,21 @@
+# Fdb version 3
+["bibtex zhongqi"] 1494895739 "zhongqi.aux" "zhongqi.bbl" "zhongqi" 1494895739
+  "data/gbt7714-2005.bst" 0 -1 0 ""
+  "data/zhongqi.bib" 0 -1 0 ""
+  "zhongqi.aux" 1492330156 3882 1917a3c865dfa96a3138e04a9111dc55 ""
+  "zhongqi.bcf" 0 -1 0 ""
+  (generated)
+  "zhongqi.bbl"
+["pdflatex"] 1494895738 "zhongqi.tex" "zhongqi.pdf" "zhongqi" 1494895739
+  "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1136768653 1332 f817c21a1ba54560425663374f1b651a ""
+  "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
+  "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
+  "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
+  "zhongqi.aux" 1492330156 3882 1917a3c865dfa96a3138e04a9111dc55 ""
+  "zhongqi.bbl" 0 -1 0 "bibtex zhongqi"
+  "zhongqi.tex" 1494683508 10019 23dfb6e3f23ef6955ff3aa2ca5d2c4b9 ""
+  (generated)
+  "zhongqi.log"
+  "zhongqi.pdf"
