@@ -1,10 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1494863678 "chap1.tex" "chap1.pdf" "chap1" 1494863679
+["pdflatex"] 1494904493 "chap1.tex" "chap1.pdf" "chap1" 1494904494
+  "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1136768653 1332 f817c21a1ba54560425663374f1b651a ""
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "chap1.aux" 1494657033 969 62664a9423926999494fcbdfda181bea ""
-  "chap1.tex" 1494863640 606 b9a8ef253c2ba6e2151cc5023dae84cb ""
+  "chap1.aux" 1494903981 1899 23e8b214ed45ce77084d6603f8511dce ""
+  "chap1.tex" 1494904492 5137 d9c4a2a3bbbfb3a9f14eb7ef32d771e7 ""
   (generated)
   "chap1.pdf"
   "chap1.log"
