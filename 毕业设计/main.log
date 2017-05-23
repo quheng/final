@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  16 MAY 2017 20:16
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  17 MAY 2017 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,23 +1618,19 @@ LaTeX Font Info:    Calculating math sizes for size <14> on input line 23.
 Chapter 1.
 File: images/worm.png Graphic file (type QTm)
 <use  "images/worm.png" >
-Overfull \hbox (198.90738pt too wide) in paragraph at lines 9--10
- [][] 
- []
-
 File: images/Druckmann.jpg Graphic file (type QTm)
-<use  "images/Druckmann.jpg" > [1
+ <use  "images/Druckmann.jpg" > [1
 
 
 ] [2]
 File: images/FARSIGHT.png Graphic file (type QTm)
- <use  "images/FARSIGHT.png" >
-File: images/FARSIGHT-res.jpg Graphic file (type QTm)
 
-<use  "images/FARSIGHT-res.jpg" > [3] [4]
+<use  "images/FARSIGHT.png" >
+File: images/FARSIGHT-res.jpg Graphic file (type QTm)
+ <use  "images/FARSIGHT-res.jpg" > [3] [4]
 File: images/neutube.png Graphic file (type QTm)
- <use  "images/neutube.png" >)
-[5] [6]
+
+<use  "images/neutube.png" >) [5] [6]
 \openout2 = `data/chap2.aux'.
 
  (./data/chap2.tex
@@ -1649,41 +1645,65 @@ File: images/server.png Graphic file (type QTm)
 
  (./data/chap3.tex
 Chapter 3.
-) [11
+[11
 
 
 
-] [12]
+] [12] [13] [14]
+File: images/neu.png Graphic file (type QTm)
+ <use  "images/neu.png" > [15]
+
+! LaTeX Error: File `images/origin' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.160 \includegraphics[width=108mm]{images/origin}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.eps,.EPS,.mps,.MPS,.ps,.PS,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2
+,.jpf,.JPF,.bmp,.BMP,.pict,.PICT,.psd,.PSD,.mac,.MAC,.TGA,.tga,.gif,.GIF,.tif,.
+TIF,.tiff,.TIFF,
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[16]
+File: images/swccontent.png Graphic file (type QTm)
+ <use  "images/swccontent.png" >
+File: images/swcdic.png Graphic file (type QTm)
+ <use  "images/swcdic.png" >) [17]
 \openout2 = `data/chap4.aux'.
 
- (./data/chap4.tex
+
+(./data/chap4.tex
 Chapter 4.
-) [13
+) [18
 
 
 
-] (./main.bbl) [14
+] (./main.bbl [19
 
 
 
-]
+]) [20]
 \openout2 = `data/thanks.aux'.
 
- (./data/thanks.tex) [15
+ (./data/thanks.tex) [21
 
 
 ]
 \openout2 = `data/appe.aux'.
 
- (./data/appe.tex) [16
+ (./data/appe.tex)
+[22
 
 
 
 ]
 \openout2 = `data/task.aux'.
 
-
-(./data/task.tex
+ (./data/task.tex
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
@@ -1945,14 +1965,14 @@ Missing character: There is no 书 in font nullfont!
 . with NFSS spec.: <->"STFangsong/OT:embolden=4;slant=0.167;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-) [17
+) [23
 
 
 
 ]
 \openout2 = `data/eval.aux'.
 
- (./data/eval.tex) [18
+ (./data/eval.tex) [24
 
 
 
@@ -1960,12 +1980,12 @@ Missing character: There is no 书 in font nullfont!
 (./data/chap1.aux) (./data/chap2.aux) (./data/chap3.aux) (./data/chap4.aux)
 (./data/thanks.aux) (./data/appe.aux) (./data/task.aux) (./data/eval.aux)) ) 
 Here is how much of TeX's memory you used:
- 22273 strings out of 493591
- 438815 string characters out of 6143546
- 430414 words of memory out of 5000000
- 25284 multiletter control sequences out of 15000+600000
- 13445 words of font info for 109 fonts, out of 8000000 for 9000
+ 22326 strings out of 493591
+ 439817 string characters out of 6143546
+ 432476 words of memory out of 5000000
+ 25308 multiletter control sequences out of 15000+600000
+ 13453 words of font info for 110 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,11n,92p,10370b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,92p,10370b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (28 pages).
+Output written on main.pdf (34 pages).

@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{brown2011diadem}
 Kerry~M Brown, Germ{\'a}n Barrionuevo, Alison~J Canty, Vincenzo De~Paola,
@@ -7,6 +7,12 @@ Kerry~M Brown, Germ{\'a}n Barrionuevo, Alison~J Canty, Vincenzo De~Paola,
 \newblock The diadem data sets: representative light microscopy images of
   neuronal morphology to advance automation of digital reconstructions.
 \newblock {\em Neuroinformatics}, 9(2-3):143--157, 2011.
+
+\bibitem{ecma1999262}
+ECMA Ecma.
+\newblock 262: Ecmascript language specification.
+\newblock {\em ECMA (European Association for Standardizing Information and
+  Communication Systems), pub-ECMA: adr,}, 1999.
 
 \bibitem{Feng2014neuTube}
 Linqing Feng, Ting Zhao, and Jinhyun Kim.
@@ -21,6 +27,12 @@ Jonathan Luisi, Arunachalam Narayanaswamy, Zachary Galbreath, and Badrinath
   efficient pattern analysis aided editing of automated neuronal
   reconstructions.
 \newblock {\em Neuroinformatics}, 9(2-3):305--315, 2011.
+
+\bibitem{network2013indexeddb}
+Mozilla~Developer Network.
+\newblock Indexeddb, 2013.
+\newblock {\em URL: https://developer. mozilla.
+  org/en-US/docs/Web/API/IndexedDB\_API}, 2013.
 
 \bibitem{stonebraker1991postgres}
 Michael Stonebraker and Greg Kemnitz.
@@ -38,6 +50,18 @@ Lav~R Varshney, Beth~L Chen, Eric Paniagua, David~H Hall, and Dmitri~B
   Chklovskii.
 \newblock Structural properties of the caenorhabditis elegans neuronal network.
 \newblock {\em PLoS Comput Biol}, 7(2):e1001066, 2011.
+
+\bibitem{webpack}
+webpack.js.org.
+\newblock webpack.
+\newblock \url{https://webpack.js.org/}.
+\newblock Accessed May 15, 2017.
+
+\bibitem{gatling}
+webpack.js.org.
+\newblock webpack.
+\newblock \url{http://gatling.io/}.
+\newblock Accessed May 15, 2017.
 
 \bibitem{white1986structure}
 John~G White, Eileen Southgate, J~Nichol Thomson, and Sydney Brenner.
