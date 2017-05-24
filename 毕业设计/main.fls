@@ -268,6 +268,7 @@ INPUT data/chap3.tex
 INPUT images/neu.png
 INPUT images/swccontent.png
 INPUT images/swcdic.png
+INPUT images/opt.png
 OUTPUT data/chap4.aux
 INPUT data/chap4.tex
 INPUT data/chap4.tex

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  17 MAY 2017 21:55
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  24 MAY 2017 09:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1672,31 +1672,33 @@ If that doesn't work, type  X <return>  to quit.
 File: images/swccontent.png Graphic file (type QTm)
  <use  "images/swccontent.png" >
 File: images/swcdic.png Graphic file (type QTm)
- <use  "images/swcdic.png" >) [17]
+ <use  "images/swcdic.png" > [17]
+File: images/opt.png Graphic file (type QTm)
+
+<use  "images/opt.png" >) [18]
 \openout2 = `data/chap4.aux'.
 
-
-(./data/chap4.tex
+ (./data/chap4.tex
 Chapter 4.
-) [18
+) [19
 
 
 
-] (./main.bbl [19
+] (./main.bbl [20
 
 
 
-]) [20]
+]) [21]
 \openout2 = `data/thanks.aux'.
 
- (./data/thanks.tex) [21
+ (./data/thanks.tex) [22
 
 
 ]
 \openout2 = `data/appe.aux'.
 
  (./data/appe.tex)
-[22
+[23
 
 
 
@@ -1965,14 +1967,14 @@ Missing character: There is no 书 in font nullfont!
 . with NFSS spec.: <->"STFangsong/OT:embolden=4;slant=0.167;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-) [23
+) [24
 
 
 
 ]
 \openout2 = `data/eval.aux'.
 
- (./data/eval.tex) [24
+ (./data/eval.tex) [25
 
 
 
@@ -1980,12 +1982,12 @@ Missing character: There is no 书 in font nullfont!
 (./data/chap1.aux) (./data/chap2.aux) (./data/chap3.aux) (./data/chap4.aux)
 (./data/thanks.aux) (./data/appe.aux) (./data/task.aux) (./data/eval.aux)) ) 
 Here is how much of TeX's memory you used:
- 22326 strings out of 493591
- 439817 string characters out of 6143546
- 432476 words of memory out of 5000000
- 25308 multiletter control sequences out of 15000+600000
+ 22329 strings out of 493591
+ 439843 string characters out of 6143546
+ 432487 words of memory out of 5000000
+ 25310 multiletter control sequences out of 15000+600000
  13453 words of font info for 110 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,12n,92p,10370b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,92p,10370b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (34 pages).
+Output written on main.pdf (35 pages).
