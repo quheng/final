@@ -23,10 +23,10 @@
 \contentsline {subsection}{\numberline {3.3.2}原始图像信息传输}{15}
 \contentsline {section}{\numberline {3.4}平台硬件架构}{16}
 \contentsline {section}{\numberline {3.5}性能优化}{16}
-\contentsline {subsection}{\numberline {3.5.1}优化获取结构脑胞体的响应时间}{16}
-\contentsline {subsection}{\numberline {3.5.2}使用 Redis 和负载均衡降低响应时间}{17}
-\contentsline {chapter}{\numberline {4}项目成果}{19}
-\contentsline {section}{\numberline {4.1}第一节}{19}
+\contentsline {subsection}{\numberline {3.5.1}优化获取结构脑胞体的响应时间}{17}
+\contentsline {subsection}{\numberline {3.5.2}使用 Redis 和负载均衡降低响应时间}{18}
+\contentsline {chapter}{\numberline {4}性能分析}{19}
+\contentsline {section}{\numberline {4.1}请求响应时间分析}{19}
 \contentsline {chapter}{参考文献}{20}
 \contentsline {chapter}{致谢}{22}
 \contentsline {chapter}{附录}{23}
