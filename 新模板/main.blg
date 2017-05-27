@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: data/cover-zh.aux
+A level-1 auxiliary file: data/cover-en.aux
+A level-1 auxiliary file: data/agreement.aux
+A level-1 auxiliary file: data/abstract-zh.aux
+A level-1 auxiliary file: data/abstract-en.aux
+A level-1 auxiliary file: data/chapter-1.aux
+A level-1 auxiliary file: data/chapter-2.aux
+A level-1 auxiliary file: data/chapter-3.aux
+A level-1 auxiliary file: data/chapter-4.aux
+A level-1 auxiliary file: data/bibliography.aux
+The style file: data/gbt7714-2005.bst
+A level-1 auxiliary file: data/acknowledgment.aux
+A level-1 auxiliary file: data/assignment.aux
+A level-1 auxiliary file: data/assessment.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: data/bibliography.bib
+Warning--entry type for "webpack" isn't style-file defined
+--line 154 of file data/bibliography.bib
+Warning--entry type for "dvid" isn't style-file defined
+--line 161 of file data/bibliography.bib
+Warning--entry type for "gatling" isn't style-file defined
+--line 168 of file data/bibliography.bib
+Warning--Unsupported entry type for dvid
+Warning--Unsupported entry type for webpack
+Warning--Unsupported entry type for gatling
+Warning--Require address: grigorik2013high
+You've used 15 entries,
+            3103 wiz_defined-function locations,
+            811 strings with 8878 characters,
+and the built_in function-call counts, 20391 in all, are:
+= -- 2242
+> -- 43
+< -- 92
++ -- 1818
+- -- 133
+* -- 610
+:= -- 2317
+add.period$ -- 0
+call.type$ -- 15
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 2839
+empty$ -- 738
+format.name$ -- 112
+if$ -- 5417
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 0
+newline$ -- 63
+num.names$ -- 12
+pop$ -- 270
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 179
+stack$ -- 0
+substring$ -- 2395
+swap$ -- 595
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 256
+width$ -- 17
+write$ -- 192
+(There were 7 warnings)
