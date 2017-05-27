@@ -274,6 +274,9 @@ OUTPUT data/chap4.aux
 INPUT data/chap4.tex
 INPUT data/chap4.tex
 INPUT images/response.png
+INPUT images/responsedis.png
+INPUT images/responsetime.png
+INPUT images/requests.png
 INPUT main.bbl
 INPUT main.bbl
 OUTPUT data/thanks.aux

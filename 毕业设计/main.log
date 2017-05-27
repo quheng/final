@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  26 MAY 2017 15:19
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  26 MAY 2017 22:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1666,26 +1666,38 @@ File: images/opt.png Graphic file (type QTm)
 
  (./data/chap4.tex
 Chapter 4.
+[19
+
+
+
+]
 File: images/response.png Graphic file (type QTm)
-<use  "images/response.png" >) [19
+ <use  "images/response.png" >
+File: images/responsedis.png Graphic file (type QTm)
+ <use  "images/responsedis.png" >
+File: images/responsetime.png Graphic file (type QTm)
+
+<use  "images/responsetime.png" >
+File: images/requests.png Graphic file (type QTm)
+ <use  "images/requests.png" > [20] [21]
+Chapter 5.
+) [22
+
+] (./main.bbl [23
 
 
 
-] (./main.bbl [20
-
-
-
-]) [21]
+]) [24]
 \openout2 = `data/thanks.aux'.
 
- (./data/thanks.tex)
-[22
+ (./data/thanks.tex) [25
 
 
 ]
 \openout2 = `data/appe.aux'.
 
- (./data/appe.tex) [23
+ (./data/appe.tex)
+[26
 
 
 
@@ -1954,14 +1966,14 @@ Missing character: There is no 书 in font nullfont!
 . with NFSS spec.: <->"STFangsong/OT:embolden=4;slant=0.167;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
-) [24
+) [27
 
 
 
 ]
 \openout2 = `data/eval.aux'.
 
- (./data/eval.tex) [25
+ (./data/eval.tex) [28
 
 
 
@@ -1969,12 +1981,12 @@ Missing character: There is no 书 in font nullfont!
 (./data/chap1.aux) (./data/chap2.aux) (./data/chap3.aux) (./data/chap4.aux)
 (./data/thanks.aux) (./data/appe.aux) (./data/task.aux) (./data/eval.aux)) ) 
 Here is how much of TeX's memory you used:
- 22311 strings out of 493591
- 439825 string characters out of 6143546
- 432502 words of memory out of 5000000
- 25314 multiletter control sequences out of 15000+600000
+ 22321 strings out of 493591
+ 439976 string characters out of 6143546
+ 432544 words of memory out of 5000000
+ 25321 multiletter control sequences out of 15000+600000
  13453 words of font info for 110 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  55i,12n,92p,10370b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (35 pages).
+Output written on main.pdf (38 pages).
