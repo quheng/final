@@ -10,6 +10,7 @@ A level-1 auxiliary file: data/chapter-1.aux
 A level-1 auxiliary file: data/chapter-2.aux
 A level-1 auxiliary file: data/chapter-3.aux
 A level-1 auxiliary file: data/chapter-4.aux
+A level-1 auxiliary file: data/chapter-5.aux
 A level-1 auxiliary file: data/bibliography.aux
 The style file: data/gbt7714-2005.bst
 A level-1 auxiliary file: data/acknowledgment.aux
@@ -31,7 +32,7 @@ Warning--Unsupported entry type for gatling
 Warning--Require address: grigorik2013high
 You've used 15 entries,
             3103 wiz_defined-function locations,
-            811 strings with 8878 characters,
+            813 strings with 8907 characters,
 and the built_in function-call counts, 20391 in all, are:
 = -- 2242
 > -- 43

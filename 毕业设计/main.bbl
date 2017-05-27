@@ -52,13 +52,6 @@
   \bibvolume{9}\bibnumber{(2-3)}\thinspace{}\textnormal{:
   }\bibpages{143\thinspace{}\textnormal{--}\thinspace{}157}\@.
 
-\bibitem{Peng2011Proof}
-\bibauthor{Peng H\@, Long F\@, Zhao T, et~al}\@. \bibtitle{Proof-editing is the
-  bottleneck of 3D neuron reconstruction: the problem and
-  solutions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@, \bibyear{2011}\@,
-  \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
-  }\bibpages{103\thinspace{}\textnormal{--}\thinspace{}105}\@.
-
 \bibitem{luisi2011farsight}
 \bibauthor{Luisi J\@, Narayanaswamy A\@, Galbreath Z, et~al}\@. \bibtitle{The
   FARSIGHT trace editor: an open source tool for 3-D inspection and efficient
@@ -86,6 +79,13 @@
   Internet Computing}\@, \bibyear{2010}\@,
   \bibvolume{14}\bibnumber{(6)}\thinspace{}\textnormal{:
   }\bibpages{80\thinspace{}\textnormal{--}\thinspace{}83}\@.
+
+\bibitem{Peng2011Proof}
+\bibauthor{Peng H\@, Long F\@, Zhao T, et~al}\@. \bibtitle{Proof-editing is the
+  bottleneck of 3D neuron reconstruction: the problem and
+  solutions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@, \bibyear{2011}\@,
+  \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{103\thinspace{}\textnormal{--}\thinspace{}105}\@.
 
 \bibitem{ecma1999262}
 \bibauthor{Ecma E}\@. \bibtitle{262: Ecmascript language
