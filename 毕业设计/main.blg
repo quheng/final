@@ -40,7 +40,7 @@ Warning--Require citedate: redis
 Warning--Require address: grigorik2013high
 You've used 24 entries,
             3103 wiz_defined-function locations,
-            857 strings with 9697 characters,
+            857 strings with 9691 characters,
 and the built_in function-call counts, 25931 in all, are:
 = -- 2701
 > -- 64

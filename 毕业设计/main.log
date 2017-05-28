@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  28 MAY 2017 22:54
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  28 MAY 2017 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2444,74 +2444,32 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 54--59
  (./data/chapter-1.tex
 Chapter 第 1 章.
 File: images/worm.png Graphic file (type QTm)
-<use  "images/worm.png" >
-
-LaTeX Warning: Citation `white1986structure' on page 1 undefined on input line 
-14.
+<use  "images/worm.png" > [1
 
 
-LaTeX Warning: Citation `varshney2011structural' on page 1 undefined on input l
-ine 14.
 
-
-LaTeX Warning: Citation `druckmann2014structured' on page 1 undefined on input 
-line 16.
-
-
-LaTeX Warning: Citation `brown2011diadem' on page 1 undefined on input line 16.
-
-
+]
 File: images/Druckmann.jpg Graphic file (type QTm)
-<use  "images/Druckmann.jpg" > [1
-
-
-
-] [2]
+ <use  "images/Druckmann.jpg" > [2]
 File: images/FARSIGHT.png Graphic file (type QTm)
- <use  "images/FARSIGHT.png" >
 
-LaTeX Warning: Citation `luisi2011farsight' on page 3 undefined on input line 3
-7.
-
+<use  "images/FARSIGHT.png" >
 File: images/FARSIGHT-res.jpg Graphic file (type QTm)
-<use  "images/FARSIGHT-res.jpg" > [3]
-
-LaTeX Warning: Citation `Feng2014neuTube' on page 4 undefined on input line 49.
-
-
+ <use  "images/FARSIGHT-res.jpg" > [3]
 File: images/neutube.png Graphic file (type QTm)
+
 <use  "images/neutube.png" > [4]) [5] [6]
 \openout2 = `data/chapter-2.aux'.
 
  (./data/chapter-2.tex
 Chapter 第 2 章.
 File: images/server.png Graphic file (type QTm)
-<use  "images/server.png" >
-
-LaTeX Warning: Citation `janeliaFlyemDvid' on page 7 undefined on input line 42
-.
-
-[7
+<use  "images/server.png" > [7
 
 
 
 
-]
-
-LaTeX Warning: Citation `stonebraker1991postgres' on page 8 undefined on input 
-line 56.
-
-[8]
-
-LaTeX Warning: Citation `nodejs' on page 9 undefined on input line 59.
-
-
-LaTeX Warning: Citation `express' on page 9 undefined on input line 59.
-
-
-LaTeX Warning: Citation `tilkov2010node' on page 9 undefined on input line 59.
-
-) [9] [10
+] [8]) [9] [10
 
 
 ]
@@ -2519,13 +2477,6 @@ LaTeX Warning: Citation `tilkov2010node' on page 9 undefined on input line 59.
 
  (./data/chapter-3.tex
 Chapter 第 3 章.
-
-LaTeX Warning: Citation `Peng2011Proof' on page 11 undefined on input line 13.
-
-
-LaTeX Warning: Citation `Feng2014neuTube' on page 11 undefined on input line 15
-.
-
 [11
 
 
@@ -2554,33 +2505,12 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 96.
  [15] [16]
 File: images/dvid.png Graphic file (type QTm)
- <use  "images/dvid.png" >
-
-LaTeX Warning: Citation `cattell2011scalable' on page 17 undefined on input lin
-e 198.
-
-[17]
-
-LaTeX Warning: Citation `ecma1999262' on page 18 undefined on input line 204.
-
-
-LaTeX Warning: Citation `kangax' on page 18 undefined on input line 204.
-
-[18]
+ <use  "images/dvid.png" > [17] [18]
 File: images/es5.png Graphic file (type QTm)
  <use  "images/es5.png" >
 Overfull \hbox (5.69054pt too wide) in paragraph at lines 208--209
  [][] 
  []
-
-
-LaTeX Warning: Citation `webpack' on page 19 undefined on input line 213.
-
-
-LaTeX Warning: Citation `loader' on page 19 undefined on input line 213.
-
-
-LaTeX Warning: Citation `uglify' on page 19 undefined on input line 213.
 
 File: images/webpack.png Graphic file (type QTm)
 <use  "images/webpack.png" >
@@ -2588,47 +2518,28 @@ Overfull \hbox (5.69054pt too wide) in paragraph at lines 217--218
  [][] 
  []
 
-
-LaTeX Warning: Citation `react' on page 19 undefined on input line 218.
-
-
-LaTeX Warning: Citation `react' on page 19 undefined on input line 218.
-
 [19]
 File: images/neu.png Graphic file (type QTm)
- <use  "images/neu.png" > [20]
-
-LaTeX Warning: Citation `wiki:crs' on page 21 undefined on input line 246.
-
-[21]
-
-LaTeX Warning: Citation `gatling' on page 22 undefined on input line 282.
-
+ <use  "images/neu.png" > [20] [21]
 File: images/origin.png Graphic file (type QTm)
-<use  "images/origin.png" >
-
-LaTeX Warning: Citation `network2013indexeddb' on page 22 undefined on input li
-ne 292.
-
-[22]
+ <use  "images/origin.png" > [22]
 File: images/swccontent.png Graphic file (type QTm)
- <use  "images/swccontent.png" >
+
+<use  "images/swccontent.png" >
 File: images/swcdic.png Graphic file (type QTm)
  <use  "images/swcdic.png" >
 File: images/res-time.png Graphic file (type QTm)
 
-<use  "images/res-time.png" >
-
-LaTeX Warning: Citation `redis' on page 23 undefined on input line 316.
-
+<use  "images/res-time.png" > [23]
 File: images/opt.png Graphic file (type QTm)
-<use  "images/opt.png" > [23]) [24] [25] [26
+ <use  "images/opt.png" >) [24] [25] [26
 
 
 ]
 \openout2 = `data/chapter-4.aux'.
 
- (./data/chapter-4.tex
+
+(./data/chapter-4.tex
 Chapter 第 4 章.
 ) [27
 
@@ -2641,10 +2552,6 @@ Chapter 第 4 章.
 
  (./data/chapter-5.tex
 Chapter 第 5 章.
-
-LaTeX Warning: Citation `grigorik2013high' on page 29 undefined on input line 1
-8.
-
 [29
 
 
@@ -2696,18 +2603,65 @@ Underfull \hbox (badness 1365) in paragraph at lines 131--133
 [][] [] [] [] [][][][][][][][] [] [][][][][][] []
  []
 
-! TeX capacity exceeded, sorry [input stack size=5000].
-\@makeother #1->\catcode `#1
-                            12\relax 
-l.137 ...php?title=Sparse_matrix&oldid=781885595}}
-                                                  \@. 
-Here is how much of TeX's memory you used:
- 41287 strings out of 493591
- 816351 string characters out of 6143546
- 1616418 words of memory out of 5000000
- 43944 multiletter control sequences out of 15000+600000
- 14263 words of font info for 115 fonts, out of 8000000 for 9000
- 1347 hyphenation exceptions out of 8191
- 5000i,12n,9981p,10381b,887s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (43 pages).
+Underfull \hbox (badness 3396) in paragraph at lines 135--138
+[]\EU1/TimesNewRoman(0)/m/n/12 Wikipedia. Sparse matrix — Wikipedia, The Free E
+ncyclopedia[EB/ OL].
+ []
+
+)) [36]
+\openout2 = `data/acknowledgment.aux'.
+
+ (./data/acknowledgment.tex) [37
+
+
+
+
+] [38
+
+
+]
+\openout2 = `data/assignment.aux'.
+
+ (./data/assignment.tex) [39
+
+
+]
+\openout2 = `data/assessment.aux'.
+
+
+(./data/assessment.tex
+Overfull \hbox (0.19pt too wide) in paragraph at lines 43--49
+[] [] 
+ []
+
+) [40
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+ (./main.aux (./data/cover-zh.aux) (./data/cover-en.aux)
+(./data/agreement.aux) (./data/abstract-zh.aux) (./data/abstract-en.aux)
+(./data/chapter-1.aux) (./data/chapter-2.aux) (./data/chapter-3.aux)
+(./data/chapter-4.aux) (./data/chapter-5.aux) (./data/chapter-6.aux)
+(./data/bibliography.aux) (./data/acknowledgment.aux) (./data/assignment.aux)
+(./data/assessment.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 114.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 114.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 41444 strings out of 493591
+ 823945 string characters out of 6143546
+ 849689 words of memory out of 5000000
+ 44061 multiletter control sequences out of 15000+600000
+ 14279 words of font info for 117 fonts, out of 8000000 for 9000
+ 1347 hyphenation exceptions out of 8191
+ 55i,12n,92p,10381b,887s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.pdf (48 pages).
