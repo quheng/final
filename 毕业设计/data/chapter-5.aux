@@ -1,10 +1,21 @@
 \relax 
 \providecommand\hyper@newdestlabel[2]{}
-\@writefile{toc}{\contentsline {chapter}{\numberline {第 5 章}总结与展望}{25}{chapter.5}}
+\citation{grigorik2013high}
+\@writefile{toc}{\contentsline {chapter}{\numberline {第 5 章}性能分析}{29}{chapter.5}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}请求响应时间分析}{29}{section.5.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5-1}{\ignorespaces 请求响应时间，图中 Login 代表用户登录的请求，Images 代表获取用户原始图像列表相关 API 的响应时间，Swcs 代表用户对神经元结构进行操作的相关 API 的响应时间，SwcContent 代表用户获取结构脑胞体的响应时间。}}{30}{figure.5.1}}
+\newlabel{response}{{5-1}{30}{请求响应时间，图中 Login 代表用户登录的请求，Images 代表获取用户原始图像列表相关 API 的响应时间，Swcs 代表用户对神经元结构进行操作的相关 API 的响应时间，SwcContent 代表用户获取结构脑胞体的响应时间。}{figure.5.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5-2}{\ignorespaces 所有请求响应时间的分布，可以明显的看出绝大多数请求的响应时间集中在 0-20 ms 之间，极少数请求的响应时间超过了 100 ms。}}{30}{figure.5.2}}
+\newlabel{responsedis}{{5-2}{30}{所有请求响应时间的分布，可以明显的看出绝大多数请求的响应时间集中在 0-20 ms 之间，极少数请求的响应时间超过了 100 ms。}{figure.5.2}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}响应请求数量分析}{30}{section.5.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5-3}{\ignorespaces 请求响应时间随时间的变化，不同颜色标明了不同比例请求所使用的时间。测试开始时，由于没有缓存，请求的响应时间较高，随着时间的推移，绝大多数的请求被服务器端或者浏览器端缓存下来，响应时间趋于平缓。}}{31}{figure.5.3}}
+\newlabel{responsetime}{{5-3}{31}{请求响应时间随时间的变化，不同颜色标明了不同比例请求所使用的时间。测试开始时，由于没有缓存，请求的响应时间较高，随着时间的推移，绝大多数的请求被服务器端或者浏览器端缓存下来，响应时间趋于平缓。}{figure.5.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5-4}{\ignorespaces 每秒钟响应请求数量}}{31}{figure.5.4}}
+\newlabel{requests}{{5-4}{31}{每秒钟响应请求数量}{figure.5.4}{}}
 \@setckpt{data/chapter-5}{
-\setcounter{page}{26}
+\setcounter{page}{32}
 \setcounter{equation}{0}
 \setcounter{enumi}{0}
 \setcounter{enumii}{0}
@@ -14,12 +25,12 @@
 \setcounter{mpfootnote}{0}
 \setcounter{part}{0}
 \setcounter{chapter}{5}
-\setcounter{section}{0}
+\setcounter{section}{2}
 \setcounter{subsection}{0}
 \setcounter{subsubsection}{0}
 \setcounter{paragraph}{0}
 \setcounter{subparagraph}{0}
-\setcounter{figure}{0}
+\setcounter{figure}{4}
 \setcounter{table}{0}
 \setcounter{parentequation}{0}
 \setcounter{LT@tables}{0}
@@ -32,9 +43,15 @@
 \setcounter{lofdepth}{1}
 \setcounter{subtable}{0}
 \setcounter{lotdepth}{1}
+\setcounter{float@type}{8}
+\setcounter{algorithm}{2}
+\setcounter{ALC@unique}{23}
+\setcounter{ALC@line}{10}
+\setcounter{ALC@rem}{0}
+\setcounter{ALC@depth}{0}
 \setcounter{Item}{0}
 \setcounter{Hfootnote}{0}
 \setcounter{Hy@AnnotLevel}{0}
-\setcounter{bookmark@seq@number}{30}
+\setcounter{bookmark@seq@number}{35}
 \setcounter{section@level}{0}
 }

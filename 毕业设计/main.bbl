@@ -66,12 +66,24 @@
   Format}\bibmark{[J]}\@. \bibjournal{Eneuro}\@, \bibyear{2014}\@,
   \bibvolume{2}\bibnumber{(1)}\@.
 
+\bibitem{janeliaFlyemDvid}
+\bibauthor{janelia}\@. \bibtitle{dvid}\bibmark{[EB/OL]}\@. \@.
+  \url{https://github.com/janelia-flyem/dvid/}\@.
+
 \bibitem{stonebraker1991postgres}
 \bibauthor{Stonebraker M\@, Kemnitz G}\@. \bibtitle{The POSTGRES next
   generation database management system}\bibmark{[J]}\@.
   \bibjournal{Communications of the ACM}\@, \bibyear{1991}\@,
   \bibvolume{34}\bibnumber{(10)}\thinspace{}\textnormal{:
   }\bibpages{78\thinspace{}\textnormal{--}\thinspace{}92}\@.
+
+\bibitem{nodejs}
+\bibauthor{NodeJS}\@. \bibtitle{NodeJS Website}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{https://nodejs.org/en/}\@.
+
+\bibitem{express}
+\bibauthor{ExpressJS}\@. \bibtitle{ExpressJS Website}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{https://expressjs.com/}\@.
 
 \bibitem{tilkov2010node}
 \bibauthor{Tilkov S\@, Vinoski S}\@. \bibtitle{Node. js: Using JavaScript to
@@ -87,16 +99,55 @@
   \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
   }\bibpages{103\thinspace{}\textnormal{--}\thinspace{}105}\@.
 
+\bibitem{cattell2011scalable}
+\bibauthor{Cattell R}\@. \bibtitle{Scalable SQL and NoSQL data
+  stores}\bibmark{[J]}\@. \bibjournal{Acm Sigmod Record}\@, \bibyear{2011}\@,
+  \bibvolume{39}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{12\thinspace{}\textnormal{--}\thinspace{}27}\@.
+
 \bibitem{ecma1999262}
 \bibauthor{Ecma E}\@. \bibtitle{262: Ecmascript language
   specification}\bibmark{[J]}\@. \bibjournal{ECMA (European Association for
   Standardizing Information and Communication Systems), pub-ECMA: adr,}\@,
   \bibyear{1999}\@.
 
+\bibitem{kangax}
+\bibauthor{kangax}\@. \bibtitle{es6-compat-table}\bibmark{[EB/OL]}\@. \@.
+  \url{http://kangax.github.io/compat-table/es6/}\@.
+
+\bibitem{webpack}
+\bibauthor{webpack.js.org}\@. \bibtitle{webpack}\bibmark{[EB/OL]}\@. \@.
+  \url{https://webpack.js.org/}\@.
+
+\bibitem{loader}
+\bibauthor{webpack.js.org}\@. \bibtitle{webpack loaders}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{https://webpack.github.io/docs/loaders.html}\@.
+
+\bibitem{uglify}
+\bibauthor{mishoo}\@. \bibtitle{UglifyJS Website}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{https://github.com/mishoo/UglifyJS}\@.
+
+\bibitem{react}
+\bibauthor{Facebook}\@. \bibtitle{React Website}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{https://facebook.github.io/react/}\@.
+
+\bibitem{wiki:crs}
+\bibauthor{Wikipedia}\@. \bibtitle{Sparse matrix --- Wikipedia{,} The Free
+  Encyclopedia}\bibmark{[EB/OL]}\@. \bibyear{2017}\@.
+  \url{\url{https://en.wikipedia.org/w/index.php?title=Sparse_matrix&oldid=781885595}}\@.
+
+\bibitem{gatling}
+\bibauthor{gatling.io}\@. \bibtitle{gatling}\bibmark{[EB/OL]}\@. \@.
+  \url{http://gatling.io/}\@.
+
 \bibitem{network2013indexeddb}
 \bibauthor{Network M~D}\@. \bibtitle{Indexeddb, 2013}\bibmark{[J]}\@.
   \bibjournal{URL: https://developer. mozilla.
   org/en-US/docs/Web/API/IndexedDB\_API}\@, \bibyear{2013}\@.
+
+\bibitem{redis}
+\bibauthor{redis.io}\@. \bibtitle{redis}\bibmark{[EB/OL]}\@. \@.
+  \url{https://redis.io/}\@.
 
 \bibitem{grigorik2013high}
 \bibauthor{Grigorik I}\@. \bibbooktitle{High Performance Browser Networking:
