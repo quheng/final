@@ -21,6 +21,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: data/bibliography.bib
+Warning--Require citedate: wiki:connectome
 Warning--Require year: janeliaFlyemDvid
 Warning--Require citedate: janeliaFlyemDvid
 Warning--Require citedate: nodejs
@@ -38,45 +39,45 @@ Warning--Require citedate: gatling
 Warning--Require year: redis
 Warning--Require citedate: redis
 Warning--Require address: grigorik2013high
-You've used 24 entries,
+You've used 30 entries,
             3103 wiz_defined-function locations,
-            857 strings with 9691 characters,
-and the built_in function-call counts, 25931 in all, are:
-= -- 2701
-> -- 64
-< -- 152
-+ -- 2191
-- -- 184
-* -- 923
-:= -- 2956
+            894 strings with 10950 characters,
+and the built_in function-call counts, 37213 in all, are:
+= -- 3979
+> -- 85
+< -- 200
++ -- 3219
+- -- 256
+* -- 1221
+:= -- 4240
 add.period$ -- 0
-call.type$ -- 24
+call.type$ -- 30
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 41
-duplicate$ -- 3432
-empty$ -- 1013
-format.name$ -- 160
-if$ -- 6857
+cite$ -- 48
+duplicate$ -- 5045
+empty$ -- 1413
+format.name$ -- 220
+if$ -- 9880
 int.to.chr$ -- 0
-int.to.str$ -- 24
+int.to.str$ -- 30
 missing$ -- 0
-newline$ -- 99
-num.names$ -- 24
-pop$ -- 358
+newline$ -- 117
+num.names$ -- 30
+pop$ -- 500
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 286
+skip$ -- 374
 stack$ -- 0
-substring$ -- 2858
-swap$ -- 877
+substring$ -- 4237
+swap$ -- 1160
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 17
-while$ -- 351
-width$ -- 26
-write$ -- 312
-(There were 17 warnings)
+warning$ -- 18
+while$ -- 486
+width$ -- 32
+write$ -- 392
+(There were 18 warnings)

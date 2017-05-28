@@ -52,19 +52,54 @@
   \bibvolume{9}\bibnumber{(2-3)}\thinspace{}\textnormal{:
   }\bibpages{143\thinspace{}\textnormal{--}\thinspace{}157}\@.
 
-\bibitem{luisi2011farsight}
+\bibitem{Luisi2011The}
 \bibauthor{Luisi J\@, Narayanaswamy A\@, Galbreath Z, et~al}\@. \bibtitle{The
-  FARSIGHT trace editor: an open source tool for 3-D inspection and efficient
-  pattern analysis aided editing of automated neuronal
-  reconstructions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@,
-  \bibyear{2011}\@, \bibvolume{9}\bibnumber{(2-3)}\thinspace{}\textnormal{:
+  FARSIGHT Trace Editor: An Open Source Tool for 3-D Inspection and Efficient
+  Pattern Analysis Aided Editing of Automated Neuronal
+  Reconstructions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@,
+  \bibyear{2011}\@, \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
   }\bibpages{305\thinspace{}\textnormal{--}\thinspace{}315}\@.
+
+\bibitem{Myatt2012Neuromantic}
+\bibauthor{Myatt D~R\@, Hadlington T\@, Ascoli G~A, et~al}\@.
+  \bibtitle{Neuromantic – from Semi-Manual to Semi-Automatic Reconstruction
+  of Neuron Morphology}\bibmark{[J]}\@. \bibjournal{Frontiers in
+  Neuroinformatics}\@, \bibyear{2012}\@, \bibvolume{6}\thinspace{}\textnormal{:
+  }\bibpages{4}\@.
+
+\bibitem{Peng2010Seeing}
+\bibauthor{Peng H\@, Long F}\@. \bibtitle{Seeing more is knowing more: V3D
+  enables real-time 3D visualization and quantitative analysis of large-scale
+  biological image data sets}\bibmark{[J]}\@. \bibjournal{Nature
+  Biotechnology}\@, \bibyear{2010}\@,
+  \bibvolume{28}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{348\thinspace{}\textnormal{--}\thinspace{}53}\@.
+
+\bibitem{Rodriguez2006Rayburst}
+\bibauthor{Rodriguez A\@, Ehlenberger D~B\@, Hof P~R, et~al}\@.
+  \bibtitle{Rayburst sampling, an algorithm for automated three-dimensional
+  shape analysis from laser scanning microscopy images}\bibmark{[J]}\@.
+  \bibjournal{Nature Protocol}\@, \bibyear{2006}\@,
+  \bibvolume{1}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{2152\thinspace{}\textnormal{--}\thinspace{}2161}\@.
 
 \bibitem{Feng2014neuTube}
 \bibauthor{Feng L\@, Zhao T\@, Kim J}\@. \bibtitle{neuTube 1.0: A New Design
   for Efficient Neuron Reconstruction Software Based on the SWC
   Format}\bibmark{[J]}\@. \bibjournal{Eneuro}\@, \bibyear{2014}\@,
   \bibvolume{2}\bibnumber{(1)}\@.
+
+\bibitem{wiki:connectome}
+\bibauthor{Wikipedia}\@. \bibtitle{Connectome --- Wikipedia{,} The Free
+  Encyclopedia}\bibmark{[EB/OL]}\@. \bibyear{2017}\@.
+  \url{https://en.wikipedia.org/w/index.php?title=Connectome&oldid=782664613}\@.
+
+\bibitem{horn2014structural}
+\bibauthor{Horn A\@, Ostwald D\@, Reisert M, et~al}\@. \bibtitle{The
+  structural--functional connectome and the default mode network of the human
+  brain}\bibmark{[J]}\@. \bibjournal{Neuroimage}\@, \bibyear{2014}\@,
+  \bibvolume{102}\thinspace{}\textnormal{:
+  }\bibpages{142\thinspace{}\textnormal{--}\thinspace{}151}\@.
 
 \bibitem{janeliaFlyemDvid}
 \bibauthor{janelia}\@. \bibtitle{dvid}\bibmark{[EB/OL]}\@. \@.
@@ -144,6 +179,14 @@
 \bibauthor{Network M~D}\@. \bibtitle{Indexeddb, 2013}\bibmark{[J]}\@.
   \bibjournal{URL: https://developer. mozilla.
   org/en-US/docs/Web/API/IndexedDB\_API}\@, \bibyear{2013}\@.
+
+\bibitem{mogul1997potential}
+\bibauthor{Mogul J~C\@, Douglis F\@, Feldmann A, et~al}\@. \bibtitle{Potential
+  benefits of delta encoding and data compression for HTTP}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{ACM SIGCOMM Computer Communication
+  Review\thinspace{}\textnormal{: }Vol~27}\@.
+  \bibyear{1997}\thinspace{}\textnormal{:
+  }\bibpages{181\thinspace{}\textnormal{--}\thinspace{}194}\@.
 
 \bibitem{redis}
 \bibauthor{redis.io}\@. \bibtitle{redis}\bibmark{[EB/OL]}\@. \@.

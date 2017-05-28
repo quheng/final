@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  28 MAY 2017 23:14
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 00:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2455,10 +2455,23 @@ File: images/FARSIGHT.png Graphic file (type QTm)
 
 <use  "images/FARSIGHT.png" >
 File: images/FARSIGHT-res.jpg Graphic file (type QTm)
- <use  "images/FARSIGHT-res.jpg" > [3]
+ <use  "images/FARSIGHT-res.jpg" >
 File: images/neutube.png Graphic file (type QTm)
 
-<use  "images/neutube.png" > [4]) [5] [6]
+<use  "images/neutube.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+[3] [4]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+
+Overfull \vbox (3.8174pt too high) has occurred while \output is active []
+
+
+[5]) [6]
 \openout2 = `data/chapter-2.aux'.
 
  (./data/chapter-2.tex
@@ -2582,60 +2595,67 @@ Chapter 第 6 章.
 ]
 \openout2 = `data/bibliography.aux'.
 
- (./data/bibliography.tex (./main.bbl [35
+ (./data/bibliography.tex (./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+[]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [] [] [][][][][]
+ [] [][][] [] [][][][][] [] [][][][][][][][][][] []
+ []
+
+[35
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 115--117
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
 []\EU1/TimesNewRoman(0)/m/n/12 kangax. es6-compat-table[EB/ OL]. . []$[][][][] 
 [] [] [] [][][][][][] [] [][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
 []\EU1/TimesNewRoman(0)/m/n/12 webpack.js.org. webpack loaders[EB/ OL]. 2017. [
 ]$[][][][][] [] [] [] [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 131--133
+Underfull \hbox (badness 1365) in paragraph at lines 166--168
 []\EU1/TimesNewRoman(0)/m/n/12 Facebook. React Website[EB/ OL]. 2017. []$[][][]
 [][] [] [] [] [][][][][][][][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 3396) in paragraph at lines 135--138
+Underfull \hbox (badness 3396) in paragraph at lines 170--173
 []\EU1/TimesNewRoman(0)/m/n/12 Wikipedia. Sparse matrix — Wikipedia, The Free E
 ncyclopedia[EB/ OL].
  []
 
-)) [36]
+[36])) [37] [38
+
+
+]
 \openout2 = `data/acknowledgment.aux'.
 
- (./data/acknowledgment.tex) [37
+ (./data/acknowledgment.tex) [39
 
 
-
-
-] [38
+] [40
 
 
 ]
 \openout2 = `data/assignment.aux'.
 
- (./data/assignment.tex) [39
+ (./data/assignment.tex)
+[41
 
 
 ]
 \openout2 = `data/assessment.aux'.
 
-
-(./data/assessment.tex
+ (./data/assessment.tex
 Overfull \hbox (0.19pt too wide) in paragraph at lines 43--49
 [] [] 
  []
 
-) [40
+) [42
 
 
 ]
@@ -2656,12 +2676,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 41444 strings out of 493591
- 823945 string characters out of 6143546
- 849689 words of memory out of 5000000
- 44061 multiletter control sequences out of 15000+600000
+ 41460 strings out of 493591
+ 824655 string characters out of 6143546
+ 850926 words of memory out of 5000000
+ 44077 multiletter control sequences out of 15000+600000
  14279 words of font info for 117 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,12n,92p,10381b,887s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,92p,10381b,959s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (48 pages).
+Output written on main.pdf (50 pages).
