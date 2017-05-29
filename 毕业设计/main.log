@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 00:33
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2496,38 +2496,38 @@ Chapter 第 3 章.
 ]
 File: images/gem.png Graphic file (type QTm)
  <use  "images/gem.png" >
-Overfull \hbox (5.69054pt too wide) in paragraph at lines 28--29
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 32--33
  [][] 
  []
 
 File: images/stru.png Graphic file (type QTm)
 <use  "images/stru.png" >
-Overfull \hbox (5.69054pt too wide) in paragraph at lines 35--37
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 39--41
  [][] 
  []
 
 [12] [13]
 File: images/stru2.png Graphic file (type QTm)
  <use  "images/stru2.png" >
-Overfull \hbox (5.69054pt too wide) in paragraph at lines 82--83
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 86--87
  [][] 
  []
 
 [14]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 96.
+put line 99.
  [15] [16]
 File: images/dvid.png Graphic file (type QTm)
  <use  "images/dvid.png" > [17] [18]
 File: images/es5.png Graphic file (type QTm)
  <use  "images/es5.png" >
-Overfull \hbox (5.69054pt too wide) in paragraph at lines 208--209
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 212--213
  [][] 
  []
 
 File: images/webpack.png Graphic file (type QTm)
 <use  "images/webpack.png" >
-Overfull \hbox (5.69054pt too wide) in paragraph at lines 217--218
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 221--222
  [][] 
  []
 
@@ -2596,7 +2596,7 @@ Chapter 第 6 章.
 \openout2 = `data/bibliography.aux'.
 
  (./data/bibliography.tex (./main.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 93--96
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 []$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [] [] [][][][][]
  [] [][][] [] [][][][][] [] [][][][][][][][][][] []
  []
@@ -2605,30 +2605,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 150--152
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+[]\EU1/TimesNewRoman(0)/m/n/12 neurodata. open connectome project[EB/ OL]. 2017
+. []$[][][][][] [] [] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 173--177
+\EU1/TimesNewRoman(0)/m/n/12 points: being non-relational, distributed, open-so
+urce and horizontally scal-
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
 []\EU1/TimesNewRoman(0)/m/n/12 kangax. es6-compat-table[EB/ OL]. . []$[][][][] 
 [] [] [] [][][][][][] [] [][][][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--160
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
 []\EU1/TimesNewRoman(0)/m/n/12 webpack.js.org. webpack loaders[EB/ OL]. 2017. [
 ]$[][][][][] [] [] [] [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 166--168
+Underfull \hbox (badness 1365) in paragraph at lines 207--209
 []\EU1/TimesNewRoman(0)/m/n/12 Facebook. React Website[EB/ OL]. 2017. []$[][][]
 [][] [] [] [] [][][][][][][][] [] [][][][][][] []
  []
 
 
-Underfull \hbox (badness 3396) in paragraph at lines 170--173
+Underfull \hbox (badness 3396) in paragraph at lines 211--214
 []\EU1/TimesNewRoman(0)/m/n/12 Wikipedia. Sparse matrix — Wikipedia, The Free E
 ncyclopedia[EB/ OL].
  []
 
-[36])) [37] [38
+)) [37] [38
 
 
 ]
@@ -2643,8 +2655,12 @@ ncyclopedia[EB/ OL].
 ]
 \openout2 = `data/assignment.aux'.
 
- (./data/assignment.tex)
-[41
+ (./data/assignment.tex
+Overfull \hbox (2.78973pt too wide) in paragraph at lines 25--34
+ [][] 
+ []
+
+) [41
 
 
 ]
@@ -2676,12 +2692,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 41460 strings out of 493591
- 824655 string characters out of 6143546
- 850926 words of memory out of 5000000
- 44077 multiletter control sequences out of 15000+600000
+ 41464 strings out of 493591
+ 824560 string characters out of 6143546
+ 850347 words of memory out of 5000000
+ 44081 multiletter control sequences out of 15000+600000
  14279 words of font info for 117 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,12n,92p,10381b,959s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,92p,10381b,973s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (50 pages).

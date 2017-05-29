@@ -52,14 +52,6 @@
   \bibvolume{9}\bibnumber{(2-3)}\thinspace{}\textnormal{:
   }\bibpages{143\thinspace{}\textnormal{--}\thinspace{}157}\@.
 
-\bibitem{Luisi2011The}
-\bibauthor{Luisi J\@, Narayanaswamy A\@, Galbreath Z, et~al}\@. \bibtitle{The
-  FARSIGHT Trace Editor: An Open Source Tool for 3-D Inspection and Efficient
-  Pattern Analysis Aided Editing of Automated Neuronal
-  Reconstructions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@,
-  \bibyear{2011}\@, \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
-  }\bibpages{305\thinspace{}\textnormal{--}\thinspace{}315}\@.
-
 \bibitem{Myatt2012Neuromantic}
 \bibauthor{Myatt D~R\@, Hadlington T\@, Ascoli G~A, et~al}\@.
   \bibtitle{Neuromantic – from Semi-Manual to Semi-Automatic Reconstruction
@@ -83,11 +75,26 @@
   \bibvolume{1}\bibnumber{(4)}\thinspace{}\textnormal{:
   }\bibpages{2152\thinspace{}\textnormal{--}\thinspace{}2161}\@.
 
+\bibitem{Luisi2011The}
+\bibauthor{Luisi J\@, Narayanaswamy A\@, Galbreath Z, et~al}\@. \bibtitle{The
+  FARSIGHT Trace Editor: An Open Source Tool for 3-D Inspection and Efficient
+  Pattern Analysis Aided Editing of Automated Neuronal
+  Reconstructions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@,
+  \bibyear{2011}\@, \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{305\thinspace{}\textnormal{--}\thinspace{}315}\@.
+
 \bibitem{Feng2014neuTube}
 \bibauthor{Feng L\@, Zhao T\@, Kim J}\@. \bibtitle{neuTube 1.0: A New Design
   for Efficient Neuron Reconstruction Software Based on the SWC
   Format}\bibmark{[J]}\@. \bibjournal{Eneuro}\@, \bibyear{2014}\@,
   \bibvolume{2}\bibnumber{(1)}\@.
+
+\bibitem{cannon1998line}
+\bibauthor{Cannon R\@, Turner D\@, Pyapali G, et~al}\@. \bibtitle{An on-line
+  archive of reconstructed hippocampal neurons}\bibmark{[J]}\@.
+  \bibjournal{Journal of neuroscience methods}\@, \bibyear{1998}\@,
+  \bibvolume{84}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{49\thinspace{}\textnormal{--}\thinspace{}54}\@.
 
 \bibitem{wiki:connectome}
 \bibauthor{Wikipedia}\@. \bibtitle{Connectome --- Wikipedia{,} The Free
@@ -104,6 +111,17 @@
 \bibitem{janeliaFlyemDvid}
 \bibauthor{janelia}\@. \bibtitle{dvid}\bibmark{[EB/OL]}\@. \@.
   \url{https://github.com/janelia-flyem/dvid/}\@.
+
+\bibitem{mikula2007internet}
+\bibauthor{Mikula S\@, Trotts I\@, Stone J~M, et~al}\@.
+  \bibtitle{Internet-enabled high-resolution brain mapping and virtual
+  microscopy}\bibmark{[J]}\@. \bibjournal{Neuroimage}\@, \bibyear{2007}\@,
+  \bibvolume{35}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{9\thinspace{}\textnormal{--}\thinspace{}15}\@.
+
+\bibitem{openconnectome}
+\bibauthor{neurodata}\@. \bibtitle{open connectome project}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{https://www.openconnectomeproject.org}\@.
 
 \bibitem{stonebraker1991postgres}
 \bibauthor{Stonebraker M\@, Kemnitz G}\@. \bibtitle{The POSTGRES next
@@ -127,12 +145,35 @@
   \bibvolume{14}\bibnumber{(6)}\thinspace{}\textnormal{:
   }\bibpages{80\thinspace{}\textnormal{--}\thinspace{}83}\@.
 
+\bibitem{hanrahan1990direct}
+\bibauthor{Hanrahan P\@, Haeberli P}\@. \bibtitle{Direct WYSIWYG painting and
+  texturing on 3D shapes: An error occurred during the printing of this article
+  that reversed the print order of pages 118 and 119. While we have corrected
+  the sort order of the 2 pages in the DL, the PDF did not allow us to
+  repaginate the 2 pages.}\bibmark{[J]}\@. \bibjournal{ACM SIGGRAPH computer
+  graphics}\@, \bibyear{1990}\@,
+  \bibvolume{24}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{215\thinspace{}\textnormal{--}\thinspace{}223}\@.
+
 \bibitem{Peng2011Proof}
 \bibauthor{Peng H\@, Long F\@, Zhao T, et~al}\@. \bibtitle{Proof-editing is the
   bottleneck of 3D neuron reconstruction: the problem and
   solutions}\bibmark{[J]}\@. \bibjournal{Neuroinformatics}\@, \bibyear{2011}\@,
   \bibvolume{9}\bibnumber{(2)}\thinspace{}\textnormal{:
   }\bibpages{103\thinspace{}\textnormal{--}\thinspace{}105}\@.
+
+\bibitem{gauravaram2012security}
+\bibauthor{Gauravaram P}\@. \bibtitle{Security Analysis of salt|| password
+  Hashes}\bibmark{[C]} //\thinspace{}\bibbooktitle{Advanced Computer Science
+  Applications and Technologies (ACSAT), 2012 International Conference on}\@.
+  \bibyear{2012}\thinspace{}\textnormal{:
+  }\bibpages{25\thinspace{}\textnormal{--}\thinspace{}30}\@.
+
+\bibitem{definitionnext}
+\bibauthor{DEFINITION N}\@. \bibtitle{Next Generation Databases mostly
+  addressing some of the points: being non-relational, distributed, open-source
+  and horizontally scalable}\bibmark{[EB/OL]}\@. \@.
+  \url{http://nosql-database.org}\@.
 
 \bibitem{cattell2011scalable}
 \bibauthor{Cattell R}\@. \bibtitle{Scalable SQL and NoSQL data
@@ -191,6 +232,13 @@
 \bibitem{redis}
 \bibauthor{redis.io}\@. \bibtitle{redis}\bibmark{[EB/OL]}\@. \@.
   \url{https://redis.io/}\@.
+
+\bibitem{chao2006create}
+\bibauthor{Chao C}\@. \bibtitle{Create scalable network services using IP load
+  blance of LVS}\bibmark{[J]}\@. \bibjournal{Sichuan Institute of Technology
+  News: Natural Science}\@, \bibyear{2006}\@,
+  \bibvolume{19}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{81\thinspace{}\textnormal{--}\thinspace{}85}\@.
 
 \bibitem{grigorik2013high}
 \bibauthor{Grigorik I}\@. \bibbooktitle{High Performance Browser Networking:

@@ -25,7 +25,7 @@ Druckmann, Shaul 与 Feng 等人开发的神经元重建算法提供了准确的
 由于神经元拓扑结构的复杂性，在一些自动化重建结果的细节上仍然需要研究人员对数字重建的结果进行人工纠正和修改，以确保数字重建工作的准确性。另外研究人员需要对数字重建结果进行编辑，比如添加或删除一些网络分支等。为了便于研究人员进一步研究神经结构，探索智能产生的原因，这就需要在神经元自动重建算法的基础上建立交互式神经元编辑系统，进一步提升数字重建结果的准确性，并且将多部分数字重建结果合并起来。
 
 \section{现有系统的特点与问题}
-现有的一些神经元编辑平台大多是针对性的解决部分问题，例如FARSIGHT \upcite{Luisi2011The} 专注于半自动重建，Neuromantic \upcite{Myatt2012Neuromantic} 适合用于半手动半自动重建的任务中，Vaa3D \upcite{Peng2010Seeing} 专注于 3D 界面下的可视化与分析，Neurostudio \upcite{Rodriguez2006Rayburst} 适用于自动化重建但是缺少 3D 模式下的编辑功能。本节主要讨论 FARSIGHT \upcite{Luisi2011The} 与 neuTube \upcite{Feng2014neuTube} 两款软件作为代表，分析现有软件的特点与问题。
+现有的一些神经元编辑平台大多是针对性的解决部分问题，Neuromantic \upcite{Myatt2012Neuromantic} 适合用于半手动半自动重建的任务中，Vaa3D \upcite{Peng2010Seeing} 专注于 3D 界面下的可视化与分析，Neurostudio \upcite{Rodriguez2006Rayburst} 适用于自动化重建但是缺少 3D 模式下的编辑功能。本节主要讨论 FARSIGHT \upcite{Luisi2011The} 与 neuTube \upcite{Feng2014neuTube} 两款具有代表性的神经元编辑软件软件，分析现有软件的特点与问题。
 
 \subsection{FARSIGHT}
 \begin{figure}[!ht]
@@ -47,7 +47,7 @@ FARSIGHT 的设计目标是保证重建结果的细节，可以快速识别重�
 FARSIGHT 的缺点在于，它专注于半自动重建，对于常见的错误修改效率确实较高，但是如果遇到细小的错误，FARSIGHT 无法识别，也不提供精细化的编辑手段，需要借助于其他软件完成。
 
 \subsection{neuTube}
-neuTube 是一种基于 SWC 文件格式的神经元重建软件，同时具备 2D 和 3D 的可视化以及编辑、绘制功能，允许用户高效的根据荧光图像数据重建神经元结构，并且支持编辑其他软件生成的标准神经结构的文件。软件界面如图 \ref{neutube} 所示。
+neuTube 是一种基于 SWC 文件格式\upcite{cannon1998line}的神经元重建软件，同时具备 2D 和 3D 的可视化以及编辑、绘制功能，允许用户高效的根据荧光图像数据重建神经元结构，并且支持编辑其他软件生成的标准神经结构的文件。软件界面如图 \ref{neutube} 所示。
 
 \begin{figure}[!ht]
 \centering
