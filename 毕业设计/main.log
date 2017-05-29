@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 20:28
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2595,26 +2595,33 @@ Overfull \hbox (2.0pt too wide) in paragraph at lines 23--41
 
 File: images/a0.png Graphic file (type QTm)
 <use  "images/a0.png" >
+Overfull \hbox (0.73885pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
+
 File: images/a1.png Graphic file (type QTm)
- <use  "images/a1.png" >
+<use  "images/a1.png" >
+Overfull \hbox (0.73885pt too wide) in paragraph at lines 50--51
+ [][] 
+ []
+
 File: images/a2.png Graphic file (type QTm)
- <use  "images/a2.png" >
+<use  "images/a2.png" >
+Overfull \hbox (0.73885pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
 File: images/a3.png Graphic file (type QTm)
-
 <use  "images/a3.png" >
+Overfull \hbox (0.73885pt too wide) in paragraph at lines 58--59
+ [][] 
+ []
+
 File: images/a4.png Graphic file (type QTm)
- <use  "images/a4.png" >
-Overfull \hbox (2.0pt too wide) in paragraph at lines 44--64
-[][] []
+<use  "images/a4.png" >
+Overfull \hbox (0.73885pt too wide) in paragraph at lines 62--63
+ [][] 
  []
-
-
-Overfull \hbox (2.0pt too wide) in paragraph at lines 44--64
-[] []
- []
-
-
-LaTeX Warning: Float too large for page by 244.72188pt on input line 66.
 
 [27
 
@@ -2632,20 +2639,27 @@ Overfull \hbox (5.69054pt too wide) in paragraph at lines 85--86
  [][] 
  []
 
+[29]
 File: images/login-res.png Graphic file (type QTm)
-<use  "images/login-res.png" >
+ <use  "images/login-res.png" >
 File: images/signup-res.png Graphic file (type QTm)
  <use  "images/signup-res.png" >
 File: images/dy-res.png Graphic file (type QTm)
 
-<use  "images/dy-res.png" >) [29] [30] [31] [32]
+<use  "images/dy-res.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 112--113
+ [][] 
+ []
+
+) [30] [31] [32
+
+
+]
 \openout2 = `data/chapter-5.aux'.
 
  (./data/chapter-5.tex
 Chapter 第 5 章.
 [33
-
-
 
 
 ]
@@ -2807,7 +2821,7 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  41520 strings out of 493591
  825299 string characters out of 6143546
- 856566 words of memory out of 5000000
+ 856571 words of memory out of 5000000
  44119 multiletter control sequences out of 15000+600000
  14279 words of font info for 117 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191

@@ -33,9 +33,9 @@
 \contentsline {section}{\numberline {4.1}前端界面展示}{27}{section.4.1}
 \contentsline {section}{\numberline {4.2}前端请求实际性能}{29}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}静态文件请求}{29}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}登录与注册请求}{29}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}动态请求}{29}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}本章小结}{29}{section.4.3}
+\contentsline {subsection}{\numberline {4.2.2}登录与注册请求}{30}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}动态请求}{30}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}本章小结}{31}{section.4.3}
 \contentsline {chapter}{\numberline {第 5 章}性能分析}{33}{chapter.5}
 \contentsline {section}{\numberline {5.1}请求响应时间分析}{33}{section.5.1}
 \contentsline {section}{\numberline {5.2}响应请求数量分析}{37}{section.5.2}
