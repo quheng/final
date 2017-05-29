@@ -29,13 +29,20 @@
 \contentsline {subsection}{\numberline {3.5.1}优化获取结构脑胞体的响应时间}{22}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {3.5.2}使用 Redis 和负载均衡降低响应时间}{23}{subsection.3.5.2}
 \contentsline {section}{\numberline {3.6}本章小结}{25}{section.3.6}
-\contentsline {chapter}{\numberline {第 4 章}实验成果}{27}{chapter.4}
-\contentsline {chapter}{\numberline {第 5 章}性能分析}{29}{chapter.5}
-\contentsline {section}{\numberline {5.1}请求响应时间分析}{29}{section.5.1}
-\contentsline {section}{\numberline {5.2}响应请求数量分析}{30}{section.5.2}
-\contentsline {chapter}{\numberline {第 6 章}总结与展望}{33}{chapter.6}
-\contentsline {section}{\numberline {6.1}项目总结}{33}{section.6.1}
-\contentsline {section}{\numberline {6.2}存在的问题与展望}{33}{section.6.2}
-\contentsline {chapter}{参考文献}{37}{chapter*.4}
-\contentsline {chapter}{致谢}{39}{chapter*.5}
+\contentsline {chapter}{\numberline {第 4 章}平台实际效果}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}前端界面展示}{27}{section.4.1}
+\contentsline {section}{\numberline {4.2}前端请求实际性能}{29}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}静态文件请求}{29}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}登录与注册请求}{29}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}动态请求}{29}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}本章小结}{29}{section.4.3}
+\contentsline {chapter}{\numberline {第 5 章}性能分析}{33}{chapter.5}
+\contentsline {section}{\numberline {5.1}请求响应时间分析}{33}{section.5.1}
+\contentsline {section}{\numberline {5.2}响应请求数量分析}{37}{section.5.2}
+\contentsline {section}{\numberline {5.3}本章小结}{37}{section.5.3}
+\contentsline {chapter}{\numberline {第 6 章}总结与展望}{39}{chapter.6}
+\contentsline {section}{\numberline {6.1}项目总结}{39}{section.6.1}
+\contentsline {section}{\numberline {6.2}存在的问题与展望}{39}{section.6.2}
+\contentsline {chapter}{参考文献}{44}{chapter*.4}
+\contentsline {chapter}{致谢}{45}{chapter*.5}
 \contentsfinish 

@@ -41,46 +41,49 @@ Warning--Require year: gatling
 Warning--Require citedate: gatling
 Warning--Require year: redis
 Warning--Require citedate: redis
+Warning--Require citedate: antdesign
+Warning--Require citedate: threejs
 Warning--Require address: grigorik2013high
-You've used 37 entries,
+Warning--Require journal: chu2013increasing
+You've used 41 entries,
             3103 wiz_defined-function locations,
-            933 strings with 12260 characters,
-and the built_in function-call counts, 45764 in all, are:
-= -- 4858
-> -- 104
-< -- 245
-+ -- 3899
-- -- 319
-* -- 1522
-:= -- 5153
+            953 strings with 12665 characters,
+and the built_in function-call counts, 49639 in all, are:
+= -- 5252
+> -- 115
+< -- 271
++ -- 4216
+- -- 350
+* -- 1667
+:= -- 5597
 add.period$ -- 0
-call.type$ -- 37
+call.type$ -- 41
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 58
-duplicate$ -- 6229
-empty$ -- 1789
-format.name$ -- 268
-if$ -- 12130
+cite$ -- 65
+duplicate$ -- 6733
+empty$ -- 1949
+format.name$ -- 296
+if$ -- 13159
 int.to.chr$ -- 0
-int.to.str$ -- 37
+int.to.str$ -- 41
 missing$ -- 0
-newline$ -- 138
-num.names$ -- 37
-pop$ -- 650
+newline$ -- 150
+num.names$ -- 41
+pop$ -- 705
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 460
+skip$ -- 509
 stack$ -- 0
-substring$ -- 5194
-swap$ -- 1473
+substring$ -- 5608
+swap$ -- 1603
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 21
-while$ -- 620
-width$ -- 39
-write$ -- 483
-(There were 21 warnings)
+warning$ -- 24
+while$ -- 677
+width$ -- 43
+write$ -- 526
+(There were 24 warnings)

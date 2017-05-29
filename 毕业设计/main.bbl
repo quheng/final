@@ -240,10 +240,28 @@
   \bibvolume{19}\bibnumber{(4)}\thinspace{}\textnormal{:
   }\bibpages{81\thinspace{}\textnormal{--}\thinspace{}85}\@.
 
+\bibitem{antdesign}
+\bibauthor{AIUX}\@. \bibtitle{ANT DESIGN A UI Design
+  Language}\bibmark{[EB/OL]}\@. \bibyear{2017}\@. \url{https://ant.design/}\@.
+
+\bibitem{threejs}
+\bibauthor{Cabello R}\@. \bibtitle{ThreeJS Website}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{https://threejs.org/}\@.
+
+\bibitem{joseph1986finding}
+\bibauthor{Joseph M\@, Pandya P}\@. \bibtitle{Finding response times in a
+  real-time system}\bibmark{[J]}\@. \bibjournal{The Computer Journal}\@,
+  \bibyear{1986}\@, \bibvolume{29}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{390\thinspace{}\textnormal{--}\thinspace{}395}\@.
+
 \bibitem{grigorik2013high}
 \bibauthor{Grigorik I}\@. \bibbooktitle{High Performance Browser Networking:
   What every web developer should know about networking and web
   performance}\bibmark{[M]}\@. \bibaddress{[S.l.]}\thinspace{}\textnormal{:
   }\bibpublisher{" O'Reilly Media, Inc."}\@, \bibyear{2013}\@.
+
+\bibitem{chu2013increasing}
+\bibauthor{Chu J\@, Cheng Y\@, Dukkipati N, et~al}\@. \bibtitle{Increasing
+  TCP's initial window}\bibmark{[J]}\@, \bibyear{2013}\@.
 
 \end{thebibliography}

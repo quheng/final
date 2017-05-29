@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 13:36
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 20:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2535,50 +2535,164 @@ Overfull \hbox (5.69054pt too wide) in paragraph at lines 221--222
 File: images/neu.png Graphic file (type QTm)
  <use  "images/neu.png" > [20] [21]
 File: images/origin.png Graphic file (type QTm)
- <use  "images/origin.png" > [22]
+ <use  "images/origin.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 290--291
+ [][] 
+ []
+
+[22]
 File: images/swccontent.png Graphic file (type QTm)
+ <use  "images/swccontent.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 300--301
+ [][] 
+ []
 
-<use  "images/swccontent.png" >
 File: images/swcdic.png Graphic file (type QTm)
- <use  "images/swcdic.png" >
-File: images/res-time.png Graphic file (type QTm)
+<use  "images/swcdic.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 307--308
+ [][] 
+ []
 
-<use  "images/res-time.png" > [23]
+File: images/res-time.png Graphic file (type QTm)
+<use  "images/res-time.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 314--315
+ [][] 
+ []
+
+[23]
 File: images/opt.png Graphic file (type QTm)
- <use  "images/opt.png" >) [24] [25] [26
+ <use  "images/opt.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 324--325
+ [][] 
+ []
+
+) [24] [25] [26
 
 
 ]
 \openout2 = `data/chapter-4.aux'.
 
-
-(./data/chapter-4.tex
+ (./data/chapter-4.tex
 Chapter 第 4 章.
-) [27
+File: images/login.png Graphic file (type QTm)
+<use  "images/login.png" >
+File: images/register.png Graphic file (type QTm)
+ <use  "images/register.png" >
+Overfull \hbox (2.0pt too wide) in paragraph at lines 8--20
+[][] [] 
+ []
+
+File: images/cylinder.png Graphic file (type QTm)
+<use  "images/cylinder.png" >
+File: images/skeleton.png Graphic file (type QTm)
+ <use  "images/skeleton.png" >
+File: images/slice.png Graphic file (type QTm)
+
+<use  "images/slice.png" >
+Overfull \hbox (2.0pt too wide) in paragraph at lines 23--41
+[][] []
+ []
+
+File: images/a0.png Graphic file (type QTm)
+<use  "images/a0.png" >
+File: images/a1.png Graphic file (type QTm)
+ <use  "images/a1.png" >
+File: images/a2.png Graphic file (type QTm)
+ <use  "images/a2.png" >
+File: images/a3.png Graphic file (type QTm)
+
+<use  "images/a3.png" >
+File: images/a4.png Graphic file (type QTm)
+ <use  "images/a4.png" >
+Overfull \hbox (2.0pt too wide) in paragraph at lines 44--64
+[][] []
+ []
 
 
-] [28
+Overfull \hbox (2.0pt too wide) in paragraph at lines 44--64
+[] []
+ []
 
 
-]
+LaTeX Warning: Float too large for page by 244.72188pt on input line 66.
+
+[27
+
+
+] [28]
+File: images/file-nocache.png Graphic file (type QTm)
+ <use  "images/file-nocache.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 78--79
+ [][] 
+ []
+
+File: images/file-cache.png Graphic file (type QTm)
+<use  "images/file-cache.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 85--86
+ [][] 
+ []
+
+File: images/login-res.png Graphic file (type QTm)
+<use  "images/login-res.png" >
+File: images/signup-res.png Graphic file (type QTm)
+ <use  "images/signup-res.png" >
+File: images/dy-res.png Graphic file (type QTm)
+
+<use  "images/dy-res.png" >) [29] [30] [31] [32]
 \openout2 = `data/chapter-5.aux'.
 
  (./data/chapter-5.tex
 Chapter 第 5 章.
-[29
+[33
+
+
 
 
 ]
 File: images/response.png Graphic file (type QTm)
  <use  "images/response.png" >
-File: images/responsedis.png Graphic file (type QTm)
- <use  "images/responsedis.png" >
-File: images/responsetime.png Graphic file (type QTm)
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 37--38
+ [][] 
+ []
 
+File: images/responsedis.png Graphic file (type QTm)
+<use  "images/responsedis.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 44--45
+ [][] 
+ []
+
+File: images/responsetime.png Graphic file (type QTm)
 <use  "images/responsetime.png" >
-File: images/requests.png Graphic file (type QTm)
- <use  "images/requests.png" >) [30] [31]
-[32
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 51--52
+ [][] 
+ []
+
+File: images/operation-res.png Graphic file (type QTm)
+<use  "images/operation-res.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 60--61
+ [][] 
+ []
+
+File: images/swc-c-res.png Graphic file (type QTm)
+<use  "images/swc-c-res.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 67--68
+ [][] 
+ []
+
+File: images/image-res.png Graphic file (type QTm)
+<use  "images/image-res.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 74--75
+ [][] 
+ []
+
+[34] [35] [36]
+File: images/num-res.png Graphic file (type QTm)
+ <use  "images/num-res.png" >
+Overfull \hbox (5.69054pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+) [37] [38
 
 
 ]
@@ -2586,10 +2700,10 @@ File: images/requests.png Graphic file (type QTm)
 
  (./data/chapter-6.tex
 Chapter 第 6 章.
-) [33
+) [39
 
 
-] [34
+] [40
 
 
 ]
@@ -2601,7 +2715,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--103
  [] [][][] [] [][][][][] [] [][][][][][][][][][] []
  []
 
-[35
+[41
 
 
 ]
@@ -2616,7 +2730,7 @@ Underfull \hbox (badness 1881) in paragraph at lines 173--177
 urce and horizontally scal-
  []
 
-[36]
+[42]
 Underfull \hbox (badness 10000) in paragraph at lines 191--193
 []\EU1/TimesNewRoman(0)/m/n/12 kangax. es6-compat-table[EB/ OL]. . []$[][][][] 
 [] [] [] [][][][][][] [] [][][][][][] [] [][] []
@@ -2640,16 +2754,15 @@ Underfull \hbox (badness 3396) in paragraph at lines 211--214
 ncyclopedia[EB/ OL].
  []
 
-)) [37] [38
-
-
-]
+[43])) [44]
 \openout2 = `data/acknowledgment.aux'.
 
- (./data/acknowledgment.tex) [39
+ (./data/acknowledgment.tex) [45
 
 
-] [40
+
+
+] [46
 
 
 ]
@@ -2660,7 +2773,7 @@ Overfull \hbox (2.78973pt too wide) in paragraph at lines 25--34
  [][] 
  []
 
-) [41
+) [47
 
 
 ]
@@ -2671,7 +2784,7 @@ Overfull \hbox (0.19pt too wide) in paragraph at lines 43--49
 [] [] 
  []
 
-) [42
+) [48
 
 
 ]
@@ -2692,12 +2805,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 41464 strings out of 493591
- 824560 string characters out of 6143546
- 850347 words of memory out of 5000000
- 44081 multiletter control sequences out of 15000+600000
+ 41520 strings out of 493591
+ 825299 string characters out of 6143546
+ 856566 words of memory out of 5000000
+ 44119 multiletter control sequences out of 15000+600000
  14279 words of font info for 117 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,12n,92p,10381b,973s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,92p,10381b,1015s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (50 pages).
+Output written on main.pdf (56 pages).
