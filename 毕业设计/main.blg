@@ -21,25 +21,21 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: data/bibliography.bib
+Warning--I'm ignoring network2013indexeddb's extra "year" field
+--line 301 of file data/bibliography.bib
 Warning--Require citedate: wiki:connectome
-Warning--Require year: janeliaFlyemDvid
 Warning--Require citedate: janeliaFlyemDvid
 Warning--Require citedate: openconnectome
 Warning--Require citedate: nodejs
 Warning--Require citedate: express
-Warning--Require year: definitionnext
 Warning--Require citedate: definitionnext
-Warning--Require year: kangax
 Warning--Require citedate: kangax
-Warning--Require year: webpack
 Warning--Require citedate: webpack
 Warning--Require citedate: loader
 Warning--Require citedate: uglify
 Warning--Require citedate: react
 Warning--Require citedate: wiki:crs
-Warning--Require year: gatling
 Warning--Require citedate: gatling
-Warning--Require year: redis
 Warning--Require citedate: redis
 Warning--Require citedate: antdesign
 Warning--Require citedate: threejs
@@ -48,23 +44,23 @@ Warning--Require journal: chu2013increasing
 You've used 41 entries,
             3103 wiz_defined-function locations,
             953 strings with 12665 characters,
-and the built_in function-call counts, 49639 in all, are:
+and the built_in function-call counts, 49675 in all, are:
 = -- 5252
 > -- 115
 < -- 271
 + -- 4216
 - -- 350
-* -- 1667
+* -- 1685
 := -- 5597
 add.period$ -- 0
 call.type$ -- 41
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 65
+cite$ -- 59
 duplicate$ -- 6733
 empty$ -- 1949
 format.name$ -- 296
-if$ -- 13159
+if$ -- 13153
 int.to.chr$ -- 0
 int.to.str$ -- 41
 missing$ -- 0
@@ -77,13 +73,13 @@ quote$ -- 0
 skip$ -- 509
 stack$ -- 0
 substring$ -- 5608
-swap$ -- 1603
+swap$ -- 1633
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 24
+warning$ -- 18
 while$ -- 677
 width$ -- 43
-write$ -- 526
-(There were 24 warnings)
+write$ -- 532
+(There were 19 warnings)

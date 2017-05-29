@@ -109,7 +109,7 @@
   }\bibpages{142\thinspace{}\textnormal{--}\thinspace{}151}\@.
 
 \bibitem{janeliaFlyemDvid}
-\bibauthor{janelia}\@. \bibtitle{dvid}\bibmark{[EB/OL]}\@. \@.
+\bibauthor{janelia}\@. \bibtitle{dvid}\bibmark{[EB/OL]}\@. \bibyear{2017}\@.
   \url{https://github.com/janelia-flyem/dvid/}\@.
 
 \bibitem{mikula2007internet}
@@ -172,7 +172,7 @@
 \bibitem{definitionnext}
 \bibauthor{DEFINITION N}\@. \bibtitle{Next Generation Databases mostly
   addressing some of the points: being non-relational, distributed, open-source
-  and horizontally scalable}\bibmark{[EB/OL]}\@. \@.
+  and horizontally scalable}\bibmark{[EB/OL]}\@. \bibyear{2017}\@.
   \url{http://nosql-database.org}\@.
 
 \bibitem{cattell2011scalable}
@@ -188,12 +188,12 @@
   \bibyear{1999}\@.
 
 \bibitem{kangax}
-\bibauthor{kangax}\@. \bibtitle{es6-compat-table}\bibmark{[EB/OL]}\@. \@.
-  \url{http://kangax.github.io/compat-table/es6/}\@.
+\bibauthor{kangax}\@. \bibtitle{es6-compat-table}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{http://kangax.github.io/compat-table/es6/}\@.
 
 \bibitem{webpack}
-\bibauthor{webpack.js.org}\@. \bibtitle{webpack}\bibmark{[EB/OL]}\@. \@.
-  \url{https://webpack.js.org/}\@.
+\bibauthor{webpack.js.org}\@. \bibtitle{webpack}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{https://webpack.js.org/}\@.
 
 \bibitem{loader}
 \bibauthor{webpack.js.org}\@. \bibtitle{webpack loaders}\bibmark{[EB/OL]}\@.
@@ -213,13 +213,13 @@
   \url{https://en.wikipedia.org/w/index.php?title=Sparse_matrix&oldid=781885595}\@.
 
 \bibitem{gatling}
-\bibauthor{gatling.io}\@. \bibtitle{gatling}\bibmark{[EB/OL]}\@. \@.
-  \url{http://gatling.io/}\@.
+\bibauthor{gatling.io}\@. \bibtitle{gatling}\bibmark{[EB/OL]}\@.
+  \bibyear{2017}\@. \url{http://gatling.io/}\@.
 
 \bibitem{network2013indexeddb}
 \bibauthor{Network M~D}\@. \bibtitle{Indexeddb, 2013}\bibmark{[J]}\@.
   \bibjournal{URL: https://developer. mozilla.
-  org/en-US/docs/Web/API/IndexedDB\_API}\@, \bibyear{2013}\@.
+  org/en-US/docs/Web/API/IndexedDB\_API}\@, \bibyear{2017}\@.
 
 \bibitem{mogul1997potential}
 \bibauthor{Mogul J~C\@, Douglis F\@, Feldmann A, et~al}\@. \bibtitle{Potential
@@ -230,7 +230,7 @@
   }\bibpages{181\thinspace{}\textnormal{--}\thinspace{}194}\@.
 
 \bibitem{redis}
-\bibauthor{redis.io}\@. \bibtitle{redis}\bibmark{[EB/OL]}\@. \@.
+\bibauthor{redis.io}\@. \bibtitle{redis}\bibmark{[EB/OL]}\@. \bibyear{2017}\@.
   \url{https://redis.io/}\@.
 
 \bibitem{chao2006create}
