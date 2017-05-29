@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 20:58
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  29 MAY 2017 23:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2525,15 +2525,16 @@ Overfull \hbox (5.69054pt too wide) in paragraph at lines 212--213
  [][] 
  []
 
+[19]
 File: images/webpack.png Graphic file (type QTm)
-<use  "images/webpack.png" >
+ <use  "images/webpack.png" >
 Overfull \hbox (5.69054pt too wide) in paragraph at lines 221--222
  [][] 
  []
 
-[19]
+[20]
 File: images/neu.png Graphic file (type QTm)
- <use  "images/neu.png" > [20] [21]
+ <use  "images/neu.png" > [21]
 File: images/origin.png Graphic file (type QTm)
  <use  "images/origin.png" >
 Overfull \hbox (5.69054pt too wide) in paragraph at lines 290--291
@@ -2547,8 +2548,9 @@ Overfull \hbox (5.69054pt too wide) in paragraph at lines 300--301
  [][] 
  []
 
+[23]
 File: images/swcdic.png Graphic file (type QTm)
-<use  "images/swcdic.png" >
+ <use  "images/swcdic.png" >
 Overfull \hbox (5.69054pt too wide) in paragraph at lines 307--308
  [][] 
  []
@@ -2559,14 +2561,14 @@ Overfull \hbox (5.69054pt too wide) in paragraph at lines 314--315
  [][] 
  []
 
-[23]
+[24]
 File: images/opt.png Graphic file (type QTm)
  <use  "images/opt.png" >
 Overfull \hbox (5.69054pt too wide) in paragraph at lines 324--325
  [][] 
  []
 
-) [24] [25] [26
+) [25] [26
 
 
 ]
